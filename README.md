@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @eahishak
+- 👋 Hi, I’m Emmanuel AHishakiye @eahishak
 - 👀 I’m interested in making Web Applications and Game Development
 - 🌱 I’m currently learning Django
 - 💞️ I’m looking to collaborate on my project
