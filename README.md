@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Emmanuel Ahishakiye @eahishak
-- 👀 I’m interested in making Web Applications and Game Development
+- 👀 I’m interested in making Web Dev and Mobile Applications
 - 🌱 I’m currently learning Django
 - 💞️ I’m looking to collaborate on my project
 - 📫 How to reach me ... eahishak@u.rochester.edu
