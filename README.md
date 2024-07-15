@@ -5,6 +5,8 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eahishak&layout=compact&theme=radical&langs_count=10" alt="Top Languages" />
 </div>
 
+## 📫 Connect with Me
+
 <div align="center">
     <a href="https://www.linkedin.com/in/emmanuelahishakiye/">
         <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
@@ -23,94 +25,83 @@
     </a>
 </div>
 
+## 👀 Interests
+- **Web Development**: Crafting responsive and user-friendly web applications.
+- **Mobile Development**: Building intuitive and high-performance mobile apps.
+- **Machine Learning**: Exploring AI and machine learning to create smarter applications.
+- **Open Source**: Contributing to open-source projects and collaborating with the developer community.
+
+## 🌱 Currently Learning
+- **Django**: Enhancing my backend development skills with this powerful Python framework.
+- **React Native**: Building cross-platform mobile applications.
+- **Docker & Kubernetes**: Containerization and orchestration for scalable applications.
+
+## 💼 Professional Experience
+- **Jackal Tech Ltd**: Founder and CTO - Leading the development of innovative tech solutions across various sectors including healthcare, education, and finance.
+- **Open Source Contributions**: Active contributor to various open-source projects, improving and building tools for the developer community.
+
+## 🛠️ Technologies & Tools
+
 <div align="center">
-    <h2>Interactive Game</h2>
-    <canvas id="gameCanvas" width="480" height="320" style="border:1px solid #000000;"></canvas>
-    <script>
-        var canvas = document.getElementById('gameCanvas');
-        var ctx = canvas.getContext('2d');
-        var ballRadius = 10;
-        var x = canvas.width / 2;
-        var y = canvas.height - 30;
-        var dx = 2;
-        var dy = -2;
-        var paddleHeight = 10;
-        var paddleWidth = 75;
-        var paddleX = (canvas.width - paddleWidth) / 2;
-        var rightPressed = false;
-        var leftPressed = false;
+    <img src="https://img.shields.io/badge/-C++-05122A?style=for-the-badge&logo=c%2B%2B" />
+    <img src="https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=python" />
+    <img src="https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript" />
+    <img src="https://img.shields.io/badge/-Dart-05122A?style=for-the-badge&logo=dart" />
+    <img src="https://img.shields.io/badge/-HTML5-05122A?style=for-the-badge&logo=html5" />
+    <img src="https://img.shields.io/badge/-CSS3-05122A?style=for-the-badge&logo=css3" />
+    <img src="https://img.shields.io/badge/-React-05122A?style=for-the-badge&logo=react" />
+    <img src="https://img.shields.io/badge/-Vue.js-05122A?style=for-the-badge&logo=vue.js" />
+    <img src="https://img.shields.io/badge/-Node.js-05122A?style=for-the-badge&logo=node.js" />
+    <img src="https://img.shields.io/badge/-Express-05122A?style=for-the-badge&logo=express" />
+    <img src="https://img.shields.io/badge/-React%20Native-05122A?style=for-the-badge&logo=react" />
+    <img src="https://img.shields.io/badge/-Flutter-05122A?style=for-the-badge&logo=flutter" />
+    <img src="https://img.shields.io/badge/-PostgreSQL-05122A?style=for-the-badge&logo=postgresql" />
+    <img src="https://img.shields.io/badge/-MongoDB-05122A?style=for-the-badge&logo=mongodb" />
+    <img src="https://img.shields.io/badge/-MySQL-05122A?style=for-the-badge&logo=mysql" />
+    <img src="https://img.shields.io/badge/-Docker-05122A?style=for-the-badge&logo=docker" />
+    <img src="https://img.shields.io/badge/-Kubernetes-05122A?style=for-the-badge&logo=kubernetes" />
+    <img src="https://img.shields.io/badge/-Jenkins-05122A?style=for-the-badge&logo=jenkins" />
+    <img src="https://img.shields.io/badge/-GitHub%20Actions-05122A?style=for-the-badge&logo=github-actions" />
+    <img src="https://img.shields.io/badge/-AWS-05122A?style=for-the-badge&logo=amazon-aws" />
+    <img src="https://img.shields.io/badge/-Azure-05122A?style=for-the-badge&logo=microsoft-azure" />
+    <img src="https://img.shields.io/badge/-Google%20Cloud-05122A?style=for-the-badge&logo=google-cloud" />
+</div>
 
-        document.addEventListener("keydown", keyDownHandler, false);
-        document.addEventListener("keyup", keyUpHandler, false);
+## 🚀 Projects
 
-        function keyDownHandler(e) {
-            if (e.key == "Right" || e.key == "ArrowRight") {
-                rightPressed = true;
-            }
-            else if (e.key == "Left" || e.key == "ArrowLeft") {
-                leftPressed = true;
-            }
-        }
-
-        function keyUpHandler(e) {
-            if (e.key == "Right" || e.key == "ArrowRight") {
-                rightPressed = false;
-            }
-            else if (e.key == "Left" || e.key == "ArrowLeft") {
-                leftPressed = false;
-            }
-        }
-
-        function drawBall() {
-            ctx.beginPath();
-            ctx.arc(x, y, ballRadius, 0, Math.PI * 2);
-            ctx.fillStyle = "#0095DD";
-            ctx.fill();
-            ctx.closePath();
-        }
-
-        function drawPaddle() {
-            ctx.beginPath();
-            ctx.rect(paddleX, canvas.height - paddleHeight, paddleWidth, paddleHeight);
-            ctx.fillStyle = "#0095DD";
-            ctx.fill();
-            ctx.closePath();
-        }
-
-        function draw() {
-            ctx.clearRect(0, 0, canvas.width, canvas.height);
-            drawBall();
-            drawPaddle();
-
-            if (x + dx > canvas.width - ballRadius || x + dx < ballRadius) {
-                dx = -dx;
-            }
-            if (y + dy < ballRadius) {
-                dy = -dy;
-            }
-            else if (y + dy > canvas.height - ballRadius) {
-                if (x > paddleX && x < paddleX + paddleWidth) {
-                    dy = -dy;
-                }
-                else {
-                    document.location.reload();
-                    clearInterval(interval);
-                }
-            }
-
-            if (rightPressed && paddleX < canvas.width - paddleWidth) {
-                paddleX += 7;
-            }
-            else if (leftPressed && paddleX > 0) {
-                paddleX -= 7;
-            }
-
-            x += dx;
-            y += dy;
-        }
-
-        var interval = setInterval(draw, 10);
-    </script>
+<div align="center">
+    <a href="https://github.com/eahishak/jackal-tech" style="display: block; text-align: left; margin-bottom: 10px;">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=eahishak&repo=jackal-tech&theme=radical" alt="Jackal Tech" />
+        <p>Jackal Tech: Comprehensive website for Jackal Tech, offering innovative tech solutions.</p>
+    </a>
+    <a href="https://github.com/eahishak/marvel-streams" style="display: block; text-align: left; margin-bottom: 10px;">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=eahishak&repo=marvel-streams&theme=radical" alt="Marvel Streams" />
+        <p>Marvel Streams: A streaming platform dedicated to Marvel movies and shows.</p>
+    </a>
+    <a href="https://github.com/eahishak/Emmanuel-Ahishakiye-Portfolio" style="display: block; text-align: left; margin-bottom: 10px;">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=eahishak&repo=Emmanuel-Ahishakiye-Portfolio&theme=radical" alt="Portfolio" />
+        <p>Portfolio: Personal portfolio showcasing my projects, skills, and achievements.</p>
+    </a>
+    <a href="https://github.com/eahishak/MEETEmmanuel" style="display: block; text-align: left; margin-bottom: 10px;">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=eahishak&repo=MEETEmmanuel&theme=radical" alt="MEET Emmanuel" />
+        <p>MEET Emmanuel: A platform to interact and connect with me.</p>
+    </a>
+    <a href="https://github.com/eahishak/ManRobotic" style="display: block; text-align: left; margin-bottom: 10px;">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=eahishak&repo=ManRobotic&theme=radical" alt="Man Robotic" />
+        <p>ManRobotic: Robotics projects and innovative solutions for manufacturing.</p>
+    </a>
+    <a href="https://github.com/eahishak/Mosaic-Eagle-Sample" style="display: block; text-align: left; margin-bottom: 10px;">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=eahishak&repo=Mosaic-Eagle-Sample&theme=radical" alt="Mosaic Eagle Sample" />
+        <p>Mosaic Eagle Sample: A sample project for the Mosaic Eagle initiative.</p>
+    </a>
+    <a href="https://github.com/eahishak/Jackal-Tech--Web-Prototype" style="display: block; text-align: left; margin-bottom: 10px;">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=eahishak&repo=Jackal-Tech--Web-Prototype&theme=radical" alt="Web Prototype" />
+        <p>Web Prototype: Prototype for the Jackal Tech website showcasing our tech solutions.</p>
+    </a>
+    <a href="https://github.com/eahishak/Escape-Game" style="display: block; text-align: left; margin-bottom: 10px;">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=eahishak&repo=Escape-Game&theme=radical" alt="Escape Game" />
+        <p>Escape Game: Asteroid Escape Wonders - an interactive game to enhance your experience.</p>
+    </a>
 </div>
 
 ## 💬 Chatbot
@@ -179,84 +170,19 @@
     });
 </script>
 
-## 👀 Interests
-- **Web Development**: Crafting responsive and user-friendly web applications.
-- **Mobile Development****: Building intuitive and high-performance mobile apps.
-- **Machine Learning**: Exploring AI and machine learning to create smarter applications.
-- **Open Source**: Contributing to open-source projects and collaborating with the developer community.
-
-## 🌱 Currently Learning
-- **Django**: Enhancing my backend development skills with this powerful Python framework.
-- **React Native**: Building cross-platform mobile applications.
-- **Docker & Kubernetes**: Containerization and orchestration for scalable applications.
-
-## 💼 Professional Experience
-- **Jackal Tech Ltd**: Founder and CTO - Leading the development of innovative tech solutions across various sectors including healthcare, education, and finance.
-- **Open Source Contributions**: Active contributor to various open-source projects, improving and building tools for the developer community.
-
-## 🛠️ Technologies & Tools
-
-<div align="center">
-    <img src="https://img.shields.io/badge/-C++-05122A?style=for-the-badge&logo=c%2B%2B" />
-    <img src="https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=python" />
-    <img src="https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript" />
-    <img src="https://img.shields.io/badge/-Dart-05122A?style=for-the-badge&logo=dart" />
-    <img src="https://img.shields.io/badge/-HTML5-05122A?style=for-the-badge&logo=html5" />
-    <img src="https://img.shields.io/badge/-CSS3-05122A?style=for-the-badge&logo=css3" />
-    <img src="https://img.shields.io/badge/-React-05122A?style=for-the-badge&logo=react" />
-    <img src="https://img.shields.io/badge/-Vue.js-05122A?style=for-the-badge&logo=vue.js" />
-    <img src="https://img.shields.io/badge/-Node.js-05122A?style=for-the-badge&logo=node.js" />
-    <img src="https://img.shields.io/badge/-Express-05122A?style=for-the-badge&logo=express" />
-    <img src="https://img.shields.io/badge/-React%20Native-05122A?style=for-the-badge&logo=react" />
-    <img src="https://img.shields.io/badge/-Flutter-05122A?style=for-the-badge&logo=flutter" />
-    <img src="https://img.shields.io/badge/-PostgreSQL-05122A?style=for-the-badge&logo=postgresql" />
-    <img src="https://img.shields.io/badge/-MongoDB-05122A?style=for-the-badge&logo=mongodb" />
-    <img src="https://img.shields.io/badge/-MySQL-05122A?style=for-the-badge&logo=mysql" />
-    <img src="https://img.shields.io/badge/-Docker-05122A?style=for-the-badge&logo=docker" />
-    <img src="https://img.shields.io/badge/-Kubernetes-05122A?style=for-the-badge&logo=kubernetes" />
-    <img src="https://img.shields.io/badge/-Jenkins-05122A?style=for-the-badge&logo=jenkins" />
-    <img src="https://img.shields.io/badge/-GitHub%20Actions-05122A?style=for-the-badge&logo=github-actions" />
-    <img src="https://img.shields.io/badge/-AWS-05122A?style=for-the-badge&logo=amazon-aws" />
-    <img src="https://img.shields.io/badge/-Azure-05122A?style=for-the-badge&logo=microsoft-azure" />
-    <img src="https://img.shields.io/badge/-Google%20Cloud-05122A?style=for-the-badge&logo=google-cloud" />
-</div>
-
 ## 🎓 Education
 - **University of Rochester**: B.Sc. in Computer Science and Business
 
-## 🚀 Projects
+## 🏆 Achievements
+- **University Leading Handler Scholarship**: Awarded to less than 1% of students
+- **Lefrak-Friedberg Scholarship**: Awarded to 32 East African Students in the US
+- **Global HackingDigitalSkills4Jobs Hackathon 2022**: Top 6 by International Telecom Union
+- **National Weekly Wavumbuzi Entrepreneurship Challenge 2022**: Winner
+- **ColorStack Fellow**
 
-<div align="center">
-    <a href="https://github.com/eahishak/jackal-tech" style="display: block; text-align: left;">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=eahishak&repo=jackal-tech&theme=radical" alt="Jackal Tech" />
-        <p>Jackal Tech: Comprehensive website for Jackal Tech, offering innovative tech solutions.</p>
-    </a>
-    <a href="https://github.com/eahishak/marvel-streams" style="display: block; text-align: left;">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=eahishak&repo=marvel-streams&theme=radical" alt="Marvel Streams" />
-        <p>Marvel Streams: A streaming platform dedicated to Marvel movies and shows.</p>
-    </a>
-    <a href="https://github.com/eahishak/Emmanuel-Ahishakiye-Portfolio" style="display: block; text-align: left;">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=eahishak&repo=Emmanuel-Ahishakiye-Portfolio&theme=radical" alt="Portfolio" />
-        <p>Portfolio: Personal portfolio showcasing my projects, skills, and achievements.</p>
-    </a>
-    <a href="https://github.com/eahishak/MEETEmmanuel" style="display: block; text-align: left;">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=eahishak&repo=MEETEmmanuel&theme=radical" alt="MEET Emmanuel" />
-        <p>MEET Emmanuel: A platform to interact and connect with me.</p>
-    </a>
-    <a href="https://github.com/eahishak/ManRobotic" style="display: block; text-align: left;">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=eahishak&repo=ManRobotic&theme=radical" alt="Man Robotic" />
-        <p>ManRobotic: Robotics projects and innovative solutions for manufacturing.</p>
-    </a>
-    <a href="https://github.com/eahishak/Mosaic-Eagle-Sample" style="display: block; text-align: left;">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=eahishak&repo=Mosaic-Eagle-Sample&theme=radical" alt="Mosaic Eagle Sample" />
-        <p>Mosaic Eagle Sample: A sample project for the Mosaic Eagle initiative.</p>
-    </a>
-    <a href="https://github.com/eahishak/Jackal-Tech--Web-Prototype" style="display: block; text-align: left;">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=eahishak&repo=Jackal-Tech--Web-Prototype&theme=radical" alt="Web Prototype" />
-        <p>Web Prototype: Prototype for the Jackal Tech website showcasing our tech solutions.</p>
-    </a>
-    <a href="https://github.com/eahishak/Escape-Game" style="display: block; text-align: left;">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=eahishak&repo=Escape-Game&theme=radical" alt="Escape Game" />
-        <p>Escape Game: Asteroid Escape Wonders - an interactive game to enhance your experience.</p>
-    </a>
-</div>
+## 🤝 Involvement
+- **National Society of Black Engineers (NSBE)**: Volunteering Associate
+- **University of Rochester Debate Team**: Group Leader
+- **University of Rochester Christian Fellowship (URCF)**: Publicity Chair
+- **Computer Science Undergraduate Council**: Member
+- **Model United Nations**: Member
