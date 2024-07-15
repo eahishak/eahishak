@@ -1,8 +1,10 @@
 # Emmanuel Ahishakiye
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/emmanuelahishakiye/)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter)](https://twitter.com/eahishak)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter)](https://twitter.com/ema__vx)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/_emlucky/)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:eahishak@u.rochester.edu)
+[![Website](https://img.shields.io/badge/Website-Visit-green?style=for-the-badge&logo=google-chrome)](https://eahishakiye.com/)
 
 👋 Hi there! I'm Emmanuel Ahishakiye (@eahishak), a passionate developer dedicated to creating impactful web and mobile applications. Welcome to my GitHub profile!
 
@@ -27,7 +29,9 @@ I'm always open to collaboration on interesting projects. Whether it's a new ope
 ## 📫 How to Reach Me
 - **Email**: eahishak@u.rochester.edu
 - **LinkedIn**: [Emmanuel Ahishakiye](https://www.linkedin.com/in/emmanuelahishakiye/)
-- **Twitter**: [@eahishak](https://twitter.com/eahishak)
+- **Twitter**: [@ema__vx](https://twitter.com/ema__vx)
+- **Instagram**: [@_emlucky](https://www.instagram.com/_emlucky/)
+- **Website**: [eahishakiye.com](https://eahishakiye.com/)
 
 ## 📈 GitHub Stats
 ![Emmanuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=eahishak&show_icons=true&theme=radical)
@@ -189,3 +193,71 @@ I'm always open to collaboration on interesting projects. Whether it's a new ope
 eahishak/eahishak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+## 💬 Chatbot
+
+<div align="center">
+    <div class="chatbot-container" style="position: fixed; bottom: 20px; right: 20px; width: 300px; height: 400px; background-color: #f1f1f1; box-shadow: 0px 0px 10px rgba(0,0,0,0.1); border-radius: 10px; display: none; flex-direction: column; justify-content: space-between;">
+        <div class="chatbot-header" style="padding: 10px; background-color: #0095DD; color: white; border-radius: 10px 10px 0 0;">Chatbot</div>
+        <div class="chatbot-messages" style="flex: 1; overflow-y: auto; padding: 10px;"></div>
+        <input type="text" class="chatbot-input" style="padding: 10px; border: none; border-top: 1px solid #ccc; border-radius: 0 0 10px 10px;" placeholder="Type a message..." />
+    </div>
+    <button class="chatbot-toggle" style="position: fixed; bottom: 20px; right: 20px; width: 50px; height: 50px; background-color: #0095DD; color: white; border: none; border-radius: 50%; cursor: pointer;">💬</button>
+</div>
+
+<script>
+    document.addEventListener('DOMContentLoaded', function () {
+        // Chatbot Functionality
+        const chatbotToggle = document.querySelector('.chatbot-toggle');
+        const chatbotContainer = document.querySelector('.chatbot-container');
+        const chatbotInput = document.querySelector('.chatbot-input');
+        const chatbotMessages = document.querySelector('.chatbot-messages');
+
+        chatbotToggle.addEventListener('click', function () {
+            chatbotContainer.style.display = chatbotContainer.style.display === 'flex' ? 'none' : 'flex';
+        });
+
+        chatbotInput.addEventListener('keypress', function (event) {
+            if (event.key === 'Enter') {
+                sendMessage();
+            }
+        });
+
+        function sendMessage() {
+            const message = chatbotInput.value.trim();
+            if (message === '') return;
+
+            addMessage('user', message);
+            chatbotInput.value = '';
+
+            setTimeout(() => {
+                getResponse(message);
+            }, 500);
+        }
+
+        function addMessage(sender, message) {
+            const messageElement = document.createElement('div');
+            messageElement.style.padding = '5px 10px';
+            messageElement.style.margin = '5px 0';
+            messageElement.style.borderRadius = '10px';
+            messageElement.style.backgroundColor = sender === 'user' ? '#0095DD' : '#e1e1e1';
+            messageElement.style.color = sender === 'user' ? 'white' : 'black';
+            messageElement.textContent = message;
+            chatbotMessages.appendChild(messageElement);
+            chatbotMessages.scrollTop = chatbotMessages.scrollHeight;
+        }
+
+        function getResponse(message) {
+            const responses = {
+                'hello': 'Hi there! How can I help you?',
+                'hi': 'Hello! How can I assist you today? If you have any questions about Emmanuel Ahishakiye or need help, feel free to ask!',
+                'help': 'Sure, what do you need help with? You can also contact Emmanuel at eahishak@u.rochester.edu.',
+                'who are you': "I am Emmanuel's personal chatbot, here to assist you with any questions or information you need. How can I help you today?",
+                // Add more responses as needed
+            };
+
+            const response = responses[message.toLowerCase()] || 'Sorry, I did not understand that. Can you please rephrase?';
+            addMessage('bot', response);
+        }
+    });
+</script>
