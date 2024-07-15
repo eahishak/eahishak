@@ -1,107 +1,117 @@
 # Emmanuel Ahishakiye
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/emmanuelahishakiye/)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter)](https://twitter.com/ema__vx)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/_emlucky/)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:eahishak@u.rochester.edu)
-[![Website](https://img.shields.io/badge/Website-Visit-green?style=for-the-badge&logo=google-chrome)](https://eahishakiye.com/)
-
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=eahishak&show_icons=true&theme=radical" alt="GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eahishak&layout=compact&theme=radical" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api?username=eahishak&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eahishak&layout=compact&theme=radical&langs_count=10" alt="Top Languages" />
 </div>
 
-## 🎮 Play a Game While You Explore!
+<div align="center">
+    <a href="https://www.linkedin.com/in/emmanuelahishakiye/">
+        <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+    </a>
+    <a href="https://twitter.com/ema__vx">
+        <img src="https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter" alt="Twitter">
+    </a>
+    <a href="https://www.instagram.com/_emlucky/">
+        <img src="https://img.shields.io/badge/Instagram-Follow-red?style=for-the-badge&logo=instagram" alt="Instagram">
+    </a>
+    <a href="mailto:eahishak@u.rochester.edu">
+        <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email">
+    </a>
+    <a href="https://eahishakiye.com/">
+        <img src="https://img.shields.io/badge/Website-Visit-green?style=for-the-badge&logo=google-chrome" alt="Website">
+    </a>
+</div>
 
 <div align="center">
+    <h2>Interactive Game</h2>
     <canvas id="gameCanvas" width="480" height="320" style="border:1px solid #000000;"></canvas>
-</div>
+    <script>
+        var canvas = document.getElementById('gameCanvas');
+        var ctx = canvas.getContext('2d');
+        var ballRadius = 10;
+        var x = canvas.width / 2;
+        var y = canvas.height - 30;
+        var dx = 2;
+        var dy = -2;
+        var paddleHeight = 10;
+        var paddleWidth = 75;
+        var paddleX = (canvas.width - paddleWidth) / 2;
+        var rightPressed = false;
+        var leftPressed = false;
 
-<script>
-    var canvas = document.getElementById('gameCanvas');
-    var ctx = canvas.getContext('2d');
-    var ballRadius = 10;
-    var x = canvas.width / 2;
-    var y = canvas.height - 30;
-    var dx = 2;
-    var dy = -2;
-    var paddleHeight = 10;
-    var paddleWidth = 75;
-    var paddleX = (canvas.width - paddleWidth) / 2;
-    var rightPressed = false;
-    var leftPressed = false;
+        document.addEventListener("keydown", keyDownHandler, false);
+        document.addEventListener("keyup", keyUpHandler, false);
 
-    document.addEventListener("keydown", keyDownHandler, false);
-    document.addEventListener("keyup", keyUpHandler, false);
-
-    function keyDownHandler(e) {
-        if (e.key == "Right" || e.key == "ArrowRight") {
-            rightPressed = true;
+        function keyDownHandler(e) {
+            if (e.key == "Right" || e.key == "ArrowRight") {
+                rightPressed = true;
+            }
+            else if (e.key == "Left" || e.key == "ArrowLeft") {
+                leftPressed = true;
+            }
         }
-        else if (e.key == "Left" || e.key == "ArrowLeft") {
-            leftPressed = true;
-        }
-    }
 
-    function keyUpHandler(e) {
-        if (e.key == "Right" || e.key == "ArrowRight") {
-            rightPressed = false;
+        function keyUpHandler(e) {
+            if (e.key == "Right" || e.key == "ArrowRight") {
+                rightPressed = false;
+            }
+            else if (e.key == "Left" || e.key == "ArrowLeft") {
+                leftPressed = false;
+            }
         }
-        else if (e.key == "Left" || e.key == "ArrowLeft") {
-            leftPressed = false;
+
+        function drawBall() {
+            ctx.beginPath();
+            ctx.arc(x, y, ballRadius, 0, Math.PI * 2);
+            ctx.fillStyle = "#0095DD";
+            ctx.fill();
+            ctx.closePath();
         }
-    }
 
-    function drawBall() {
-        ctx.beginPath();
-        ctx.arc(x, y, ballRadius, 0, Math.PI * 2);
-        ctx.fillStyle = "#0095DD";
-        ctx.fill();
-        ctx.closePath();
-    }
-
-    function drawPaddle() {
-        ctx.beginPath();
-        ctx.rect(paddleX, canvas.height - paddleHeight, paddleWidth, paddleHeight);
-        ctx.fillStyle = "#0095DD";
-        ctx.fill();
-        ctx.closePath();
-    }
-
-    function draw() {
-        ctx.clearRect(0, 0, canvas.width, canvas.height);
-        drawBall();
-        drawPaddle();
-
-        if (x + dx > canvas.width - ballRadius || x + dx < ballRadius) {
-            dx = -dx;
+        function drawPaddle() {
+            ctx.beginPath();
+            ctx.rect(paddleX, canvas.height - paddleHeight, paddleWidth, paddleHeight);
+            ctx.fillStyle = "#0095DD";
+            ctx.fill();
+            ctx.closePath();
         }
-        if (y + dy < ballRadius) {
-            dy = -dy;
-        }
-        else if (y + dy > canvas.height - ballRadius) {
-            if (x > paddleX && x < paddleX + paddleWidth) {
+
+        function draw() {
+            ctx.clearRect(0, 0, canvas.width, canvas.height);
+            drawBall();
+            drawPaddle();
+
+            if (x + dx > canvas.width - ballRadius || x + dx < ballRadius) {
+                dx = -dx;
+            }
+            if (y + dy < ballRadius) {
                 dy = -dy;
             }
-            else {
-                document.location.reload();
-                clearInterval(interval);
+            else if (y + dy > canvas.height - ballRadius) {
+                if (x > paddleX && x < paddleX + paddleWidth) {
+                    dy = -dy;
+                }
+                else {
+                    document.location.reload();
+                    clearInterval(interval);
+                }
             }
+
+            if (rightPressed && paddleX < canvas.width - paddleWidth) {
+                paddleX += 7;
+            }
+            else if (leftPressed && paddleX > 0) {
+                paddleX -= 7;
+            }
+
+            x += dx;
+            y += dy;
         }
 
-        if (rightPressed && paddleX < canvas.width - paddleWidth) {
-            paddleX += 7;
-        }
-        else if (leftPressed && paddleX > 0) {
-            paddleX -= 7;
-        }
-
-        x += dx;
-        y += dy;
-    }
-
-    var interval = setInterval(draw, 10);
-</script>
+        var interval = setInterval(draw, 10);
+    </script>
+</div>
 
 ## 💬 Chatbot
 
@@ -116,7 +126,6 @@
 
 <script>
     document.addEventListener('DOMContentLoaded', function () {
-        // Chatbot Functionality
         const chatbotToggle = document.querySelector('.chatbot-toggle');
         const chatbotContainer = document.querySelector('.chatbot-container');
         const chatbotInput = document.querySelector('.chatbot-input');
@@ -162,7 +171,6 @@
                 'hi': 'Hello! How can I assist you today? If you have any questions about Emmanuel Ahishakiye or need help, feel free to ask!',
                 'help': 'Sure, what do you need help with? You can also contact Emmanuel at eahishak@u.rochester.edu.',
                 'who are you': "I am Emmanuel's personal chatbot, here to assist you with any questions or information you need. How can I help you today?",
-                // Add more responses as needed
             };
 
             const response = responses[message.toLowerCase()] || 'Sorry, I did not understand that. Can you please rephrase?';
@@ -186,32 +194,17 @@
 - **Jackal Tech Ltd**: Founder and CTO - Leading the development of innovative tech solutions across various sectors including healthcare, education, and finance.
 - **Open Source Contributions**: Active contributor to various open-source projects, improving and building tools for the developer community.
 
-## 📫 How to Reach Me
-- **Email**: eahishak@u.rochester.edu
-- **LinkedIn**: [Emmanuel Ahishakiye](https://www.linkedin.com/in/emmanuelahishakiye/)
-- **Twitter**: [@ema__vx](https://twitter.com/ema__vx)
-- **Instagram**: [@_emlucky](https://www.instagram.com/_emlucky/)
-- **Website**: [eahishakiye.com](https://eahishakiye.com/)
-
-## 📈 GitHub Stats
-![Emmanuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=eahishak&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eahishak&layout=compact&theme=radical)
-
-## 📝 Latest Blog Posts
-- [Understanding Django for Beginners](https://medium.com/@eahishak/understanding-django-for-beginners-123456)
-- [Building Scalable Mobile Apps with React Native](https://medium.com/@eahishak/building-scalable-mobile-apps-with-react-native-123456)
-- [An Introduction to Docker & Kubernetes](https://medium.com/@eahishak/an-introduction-to-docker-kubernetes-123456)
-
 ## 🛠️ Technologies & Tools
 
 <div align="center">
+    <img src="https://img.shields.io/badge/-C++-05122A?style=for-the-badge&logo=c%2B%2B" />
+    <img src="https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=python" />
+    <img src="https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript" />
+    <img src="https://img.shields.io/badge/-Dart-05122A?style=for-the-badge&logo=dart" />
     <img src="https://img.shields.io/badge/-HTML5-05122A?style=for-the-badge&logo=html5" />
     <img src="https://img.shields.io/badge/-CSS3-05122A?style=for-the-badge&logo=css3" />
-    <img src="https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript" />
     <img src="https://img.shields.io/badge/-React-05122A?style=for-the-badge&logo=react" />
     <img src="https://img.shields.io/badge/-Vue.js-05122A?style=for-the-badge&logo=vue.js" />
-    <img src="https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=python" />
-    <img src="https://img.shields.io/badge/-Django-05122A?style=for-the-badge&logo=django" />
     <img src="https://img.shields.io/badge/-Node.js-05122A?style=for-the-badge&logo=node.js" />
     <img src="https://img.shields.io/badge/-Express-05122A?style=for-the-badge&logo=express" />
     <img src="https://img.shields.io/badge/-React%20Native-05122A?style=for-the-badge&logo=react" />
@@ -235,24 +228,31 @@
 
 <div align="center">
     <a href="https://github.com/eahishak/jackal-tech" style="display: block; text-align: left;">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=eahishak&repo=jackal-tech&theme=radical" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=eahishak&repo=jackal-tech&theme=radical" alt="Jackal Tech" />
+        <p>Jackal Tech: Innovative tech solutions across various sectors.</p>
     </a>
     <a href="https://github.com/eahishak/marvel-streams" style="display: block; text-align: left;">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=eahishak&repo=marvel-streams&theme=radical" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=eahishak&repo=marvel-streams&theme=radical" alt="Marvel Streams" />
+        <p>Marvel Streams: A platform for streaming Marvel movies and shows.</p>
     </a>
     <a href="https://github.com/eahishak/Emmanuel-Ahishakiye-Portfolio" style="display: block; text-align: left;">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=eahishak&repo=Emmanuel-Ahishakiye-Portfolio&theme=radical" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=eahishak&repo=Emmanuel-Ahishakiye-Portfolio&theme=radical" alt="Portfolio" />
+        <p>Portfolio: My personal portfolio showcasing my work and skills.</p>
     </a>
     <a href="https://github.com/eahishak/MEETEmmanuel" style="display: block; text-align: left;">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=eahishak&repo=MEETEmmanuel&theme=radical" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=eahishak&repo=MEETEmmanuel&theme=radical" alt="MEET Emmanuel" />
+        <p>MEET Emmanuel: A platform to meet and interact with me.</p>
     </a>
     <a href="https://github.com/eahishak/ManRobotic" style="display: block; text-align: left;">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=eahishak&repo=ManRobotic&theme=radical" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=eahishak&repo=ManRobotic&theme=radical" alt="Man Robotic" />
+        <p>Man Robotic: Robotics projects and innovations.</p>
     </a>
     <a href="https://github.com/eahishak/Mosaic-Eagle-Sample" style="display: block; text-align: left;">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=eahishak&repo=Mosaic-Eagle-Sample&theme=radical" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=eahishak&repo=Mosaic-Eagle-Sample&theme=radical" alt="Mosaic Eagle Sample" />
+        <p>Mosaic Eagle Sample: A sample project for the Mosaic Eagle initiative.</p>
     </a>
     <a href="https://github.com/eahishak/Jackal-Tech--Web-Prototype" style="display: block; text-align: left;">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=eahishak&repo=Jackal-Tech--Web-Prototype&theme=radical" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=eahishak&repo=Jackal-Tech--Web-Prototype&theme=radical" alt="Web Prototype" />
+        <p>Web Prototype: Prototype for the Jackal Tech website.</p>
     </a>
 </div>
