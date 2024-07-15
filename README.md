@@ -181,7 +181,7 @@
 
 ## 👀 Interests
 - **Web Development**: Crafting responsive and user-friendly web applications.
-- **Mobile Development**: Building intuitive and high-performance mobile apps.
+- **Mobile Development****: Building intuitive and high-performance mobile apps.
 - **Machine Learning**: Exploring AI and machine learning to create smarter applications.
 - **Open Source**: Contributing to open-source projects and collaborating with the developer community.
 
@@ -222,30 +222,30 @@
 </div>
 
 ## 🎓 Education
-- **University of Rochester**: B.Sc. in Computer Science
+- **University of Rochester**: B.Sc. in Computer Science and Business
 
 ## 🚀 Projects
 
 <div align="center">
     <a href="https://github.com/eahishak/jackal-tech" style="display: block; text-align: left;">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=eahishak&repo=jackal-tech&theme=radical" alt="Jackal Tech" />
-        <p>Jackal Tech: Innovative tech solutions across various sectors.</p>
+        <p>Jackal Tech: Comprehensive website for Jackal Tech, offering innovative tech solutions.</p>
     </a>
     <a href="https://github.com/eahishak/marvel-streams" style="display: block; text-align: left;">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=eahishak&repo=marvel-streams&theme=radical" alt="Marvel Streams" />
-        <p>Marvel Streams: A platform for streaming Marvel movies and shows.</p>
+        <p>Marvel Streams: A streaming platform dedicated to Marvel movies and shows.</p>
     </a>
     <a href="https://github.com/eahishak/Emmanuel-Ahishakiye-Portfolio" style="display: block; text-align: left;">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=eahishak&repo=Emmanuel-Ahishakiye-Portfolio&theme=radical" alt="Portfolio" />
-        <p>Portfolio: My personal portfolio showcasing my work and skills.</p>
+        <p>Portfolio: Personal portfolio showcasing my projects, skills, and achievements.</p>
     </a>
     <a href="https://github.com/eahishak/MEETEmmanuel" style="display: block; text-align: left;">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=eahishak&repo=MEETEmmanuel&theme=radical" alt="MEET Emmanuel" />
-        <p>MEET Emmanuel: A platform to meet and interact with me.</p>
+        <p>MEET Emmanuel: A platform to interact and connect with me.</p>
     </a>
     <a href="https://github.com/eahishak/ManRobotic" style="display: block; text-align: left;">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=eahishak&repo=ManRobotic&theme=radical" alt="Man Robotic" />
-        <p>Man Robotic: Robotics projects and innovations.</p>
+        <p>ManRobotic: Robotics projects and innovative solutions for manufacturing.</p>
     </a>
     <a href="https://github.com/eahishak/Mosaic-Eagle-Sample" style="display: block; text-align: left;">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=eahishak&repo=Mosaic-Eagle-Sample&theme=radical" alt="Mosaic Eagle Sample" />
@@ -253,6 +253,10 @@
     </a>
     <a href="https://github.com/eahishak/Jackal-Tech--Web-Prototype" style="display: block; text-align: left;">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=eahishak&repo=Jackal-Tech--Web-Prototype&theme=radical" alt="Web Prototype" />
-        <p>Web Prototype: Prototype for the Jackal Tech website.</p>
+        <p>Web Prototype: Prototype for the Jackal Tech website showcasing our tech solutions.</p>
+    </a>
+    <a href="https://github.com/eahishak/Escape-Game" style="display: block; text-align: left;">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=eahishak&repo=Escape-Game&theme=radical" alt="Escape Game" />
+        <p>Escape Game: Asteroid Escape Wonders - an interactive game to enhance your experience.</p>
     </a>
 </div>
