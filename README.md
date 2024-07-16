@@ -2,14 +2,14 @@
 ## 🎓 Education
 - **University of Rochester**: B.Sc. in Computer Science and Business
 
-<div align="center" style="background: linear-gradient(135deg, #0095DD, #6a11cb); padding: 20px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
-    <img src="https://github-readme-stats.vercel.app/api?username=eahishak&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" style="margin-bottom: 20px;" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eahishak&layout=compact&theme=radical&langs_count=10" alt="Top Languages" />
+<div style="background: linear-gradient(135deg, #0095DD, #6a11cb); padding: 20px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+    <img src="https://github-readme-stats.vercel.app/api?username=eahishak&show_icons=true&theme=radical&include_all_commits=true&count_private=true&custom_title=Emmanuel%20Ahishakiye%27s%20GitHub%20Stats&line_height=30" alt="GitHub Stats" style="margin-bottom: 20px;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eahishak&layout=compact&theme=radical&langs_count=10&hide=html,css" alt="Top Languages" />
 </div>
 
 ## 📫 Connect with Me
 
-<div align="center" style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin: 20px 0;">
+<div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin: 20px 0;">
     <a href="https://www.linkedin.com/in/emmanuelahishakiye/">
         <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
     </a>
@@ -48,8 +48,8 @@
 I'm always open to collaboration on interesting projects. Whether it's a new open-source initiative, a challenging development problem, or an innovative startup idea, feel free to reach out!
 
 ## 📈 GitHub Stats
-![Emmanuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=eahishak&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eahishak&layout=compact&theme=radical)
+![Emmanuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=eahishak&show_icons=true&theme=radical&include_all_commits=true&count_private=true&custom_title=Emmanuel%20Ahishakiye%27s%20GitHub%20Stats&line_height=30)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eahishak&layout=compact&theme=radical&langs_count=10&hide=html,css)
 
 ## 📝 Latest Blog Posts
 - [Understanding Django for Beginners](https://medium.com/@eahishak/understanding-django-for-beginners-123456)
@@ -58,7 +58,7 @@ I'm always open to collaboration on interesting projects. Whether it's a new ope
 
 ## 🛠️ Technologies & Tools
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin: 20px 0;">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin: 20px 0;">
     <img src="https://img.shields.io/badge/-Dart-05122A?style=for-the-badge&logo=dart" />
     <img src="https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript" />
     <img src="https://img.shields.io/badge/-Java-05122A?style=for-the-badge&logo=java" />
@@ -87,42 +87,41 @@ I'm always open to collaboration on interesting projects. Whether it's a new ope
 
 ## 🚀 Projects
 
-<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin: 20px 0;">
-    <div style="background: #1f1f1f; padding: 20px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
-        <a href="https://github.com/eahishak/jackal-tech" style="color: white;">
+<div style="display: flex; flex-wrap: wrap; gap: 20px; margin: 20px 0;">
+    <div style="background: #1f1f1f; padding: 20px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); flex: 1;">
+        <a href="https://github.com/eahishak/jackal-tech" style="color: white; text-decoration: none;">
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=eahishak&repo=jackal-tech&theme=radical" alt="Jackal Tech" />
         </a>
     </div>
-   <div style="background: #1f1f1f; padding: 20px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
-        <a href="https://github.com/eahishak/marvel-streams" style="color: white;">
+    <div style="background: #1f1f1f; padding: 20px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); flex: 1;">
+        <a href="https://github.com/eahishak/marvel-streams" style="color: white; text-decoration: none;">
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=eahishak&repo=marvel-streams&theme=radical" alt="Marvel Streams" />
         </a>
     </div>
-    <div style="background: #1f1f1f; padding: 20px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
-        <a href="https://github.com/eahishak/Emmanuel-Ahishakiye-Portfolio" style="color: white;">
+    <div style="background: #1f1f1f; padding: 20px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); flex: 1;">
+        <a href="https://github.com/eahishak/Emmanuel-Ahishakiye-Portfolio" style="color: white; text-decoration: none;">
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=eahishak&repo=Emmanuel-Ahishakiye-Portfolio&theme=radical" alt="Portfolio" />
         </a>
     </div>
-    <div style="background: #1f1f1f; padding: 20px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
-        <a href="https://github.com/eahishak/MEETEmmanuel" style="color: white;">
+    <div style="background: #1f1f1f; padding: 20px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); flex: 1;">
+        <a href="https://github.com/eahishak/MEETEmmanuel" style="color: white; text-decoration: none;">
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=eahishak&repo=MEETEmmanuel&theme=radical" alt="MEET Emmanuel" />
         </a>
     </div>
-    <div style="background: #1f1f1f; padding: 20px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
-        <a href="https://github.com/eahishak/ManRobotic" style="color: white;">
+    <div style="background: #1f1f1f; padding: 20px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); flex: 1;">
+        <a href="https://github.com/eahishak/ManRobotic" style="color: white; text-decoration: none;">
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=eahishak&repo=ManRobotic&theme=radical" alt="Man Robotic" />
         </a>
     </div>
-    <div style="background: #1f1f1f; padding: 20px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
-        <a href="https://github.com/eahishak/Mosaic-Eagle-Sample" style="color: white;">
+    <div style="background: #1f1f1f; padding: 20px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); flex: 1;">
+        <a href="https://github.com/eahishak/Mosaic-Eagle-Sample" style="color: white; text-decoration: none;">
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=eahishak&repo=Mosaic-Eagle-Sample&theme=radical" alt="Mosaic Eagle Sample" />
         </a>
     </div>
-    <div style="background: #1f1f1f; padding: 20px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
-        <a href="https://github.com/eahishak/Jackal-Tech--Web-Prototype" style="color: white;">
+    <div style="background: #1f1f1f; padding: 20px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); flex: 1;">
+        <a href="https://github.com/eahishak/Jackal-Tech--Web-Prototype" style="color: white; text-decoration: none;">
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=eahishak&repo=Jackal-Tech--Web-Prototype&theme=radical" alt="Web Prototype" />
         </a>
     </div>
 </div>
-
 
