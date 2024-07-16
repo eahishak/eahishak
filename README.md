@@ -1,4 +1,5 @@
 # Emmanuel Ahishakiye
+
 ## 🎓 Education
 - **University of Rochester**: B.Sc. in Computer Science and Business
 
@@ -64,6 +65,7 @@ I'm always open to collaboration on interesting projects. Whether it's a new ope
 - **Go**: 3%
 - **TypeScript**: 2%
 - **PHP**: 2%
+- **Others**: 10%
 
 ## 📝 Latest Blog Posts
 - [Understanding Django for Beginners](https://medium.com/@eahishak/understanding-django-for-beginners-123456)
@@ -142,4 +144,3 @@ I'm always open to collaboration on interesting projects. Whether it's a new ope
         </a>
     </div>
 </div>
-
