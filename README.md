@@ -1,9 +1,10 @@
 # Emmanuel Ahishakiye
 ## 🎓 Education
 - **University of Rochester**: B.Sc. in Computer Science and Business
+
 <div style="background: linear-gradient(135deg, #0095DD, #6a11cb); padding: 20px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
     <img src="https://github-readme-stats.vercel.app/api?username=eahishak&show_icons=true&theme=radical&include_all_commits=true&count_private=true&custom_title=Emmanuel%20Ahishakiye%27s%20GitHub%20Stats&line_height=30" alt="GitHub Stats" style="margin-bottom: 20px;" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eahishak&layout=compact&theme=radical&langs_count=10&hide=html,css&exclude_repo=eahishak.github.io" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eahishak&layout=compact&theme=radical&langs_count=10" alt="Top Languages" />
 </div>
 
 ## 📫 Connect with Me
@@ -48,18 +49,21 @@ I'm always open to collaboration on interesting projects. Whether it's a new ope
 
 ## 📈 GitHub Stats
 ![Emmanuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=eahishak&show_icons=true&theme=radical&include_all_commits=true&count_private=true&custom_title=Emmanuel%20Ahishakiye%27s%20GitHub%20Stats&line_height=30)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eahishak&layout=compact&theme=radical&langs_count=10&hide=html,css&exclude_repo=eahishak.github.io)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eahishak&layout=compact&theme=radical&langs_count=10)
 
 ### Language Usage
 - **JavaScript**: 25%
-- **Dart**: 20%
 - **Python**: 20%
+- **Dart**: 15%
 - **Java**: 10%
 - **C++**: 5%
 - **SQL**: 5%
 - **HTML**: 5%
 - **CSS**: 5%
-- **Other**: 5%
+- **Ruby**: 3%
+- **Go**: 3%
+- **TypeScript**: 2%
+- **PHP**: 2%
 
 ## 📝 Latest Blog Posts
 - [Understanding Django for Beginners](https://medium.com/@eahishak/understanding-django-for-beginners-123456)
@@ -93,6 +97,10 @@ I'm always open to collaboration on interesting projects. Whether it's a new ope
     <img src="https://img.shields.io/badge/-AWS-05122A?style=for-the-badge&logo=amazon-aws" />
     <img src="https://img.shields.io/badge/-Azure-05122A?style=for-the-badge&logo=microsoft-azure" />
     <img src="https://img.shields.io/badge/-Google%20Cloud-05122A?style=for-the-badge&logo=google-cloud" />
+    <img src="https://img.shields.io/badge/-Ruby-05122A?style=for-the-badge&logo=ruby" />
+    <img src="https://img.shields.io/badge/-Go-05122A?style=for-the-badge&logo=go" />
+    <img src="https://img.shields.io/badge/-TypeScript-05122A?style=for-the-badge&logo=typescript" />
+    <img src="https://img.shields.io/badge/-PHP-05122A?style=for-the-badge&logo=php" />
 </div>
 
 ## 🚀 Projects
@@ -134,3 +142,4 @@ I'm always open to collaboration on interesting projects. Whether it's a new ope
         </a>
     </div>
 </div>
+
