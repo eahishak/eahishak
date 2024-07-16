@@ -1,4 +1,6 @@
 # Emmanuel Ahishakiye
+## 🎓 Education
+- **University of Rochester**: B.Sc. in Computer Science and Business
 
 <div align="center" style="background: linear-gradient(135deg, #0095DD, #6a11cb); padding: 20px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
     <img src="https://github-readme-stats.vercel.app/api?username=eahishak&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" style="margin-bottom: 20px;" />
@@ -89,62 +91,38 @@ I'm always open to collaboration on interesting projects. Whether it's a new ope
     <div style="background: #1f1f1f; padding: 20px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
         <a href="https://github.com/eahishak/jackal-tech" style="color: white;">
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=eahishak&repo=jackal-tech&theme=radical" alt="Jackal Tech" />
-            <p>Comprehensive website for Jackal Tech, offering innovative tech solutions.</p>
         </a>
     </div>
-    <div style="background: #1f1f1f; padding: 20px;
-    <div style="background: #1f1f1f; padding: 20px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+   <div style="background: #1f1f1f; padding: 20px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
         <a href="https://github.com/eahishak/marvel-streams" style="color: white;">
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=eahishak&repo=marvel-streams&theme=radical" alt="Marvel Streams" />
-            <p>A streaming platform dedicated to Marvel movies and shows.</p>
         </a>
     </div>
     <div style="background: #1f1f1f; padding: 20px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
         <a href="https://github.com/eahishak/Emmanuel-Ahishakiye-Portfolio" style="color: white;">
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=eahishak&repo=Emmanuel-Ahishakiye-Portfolio&theme=radical" alt="Portfolio" />
-            <p>Personal portfolio showcasing my projects, skills, and achievements.</p>
         </a>
     </div>
     <div style="background: #1f1f1f; padding: 20px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
         <a href="https://github.com/eahishak/MEETEmmanuel" style="color: white;">
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=eahishak&repo=MEETEmmanuel&theme=radical" alt="MEET Emmanuel" />
-            <p>A platform to interact and connect with me.</p>
         </a>
     </div>
     <div style="background: #1f1f1f; padding: 20px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
         <a href="https://github.com/eahishak/ManRobotic" style="color: white;">
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=eahishak&repo=ManRobotic&theme=radical" alt="Man Robotic" />
-            <p>Robotics projects and innovative solutions for manufacturing.</p>
         </a>
     </div>
     <div style="background: #1f1f1f; padding: 20px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
         <a href="https://github.com/eahishak/Mosaic-Eagle-Sample" style="color: white;">
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=eahishak&repo=Mosaic-Eagle-Sample&theme=radical" alt="Mosaic Eagle Sample" />
-            <p>A sample project for the Mosaic Eagle initiative.</p>
         </a>
     </div>
     <div style="background: #1f1f1f; padding: 20px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
         <a href="https://github.com/eahishak/Jackal-Tech--Web-Prototype" style="color: white;">
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=eahishak&repo=Jackal-Tech--Web-Prototype&theme=radical" alt="Web Prototype" />
-            <p>Prototype for the Jackal Tech website showcasing our tech solutions.</p>
         </a>
     </div>
 </div>
 
 
-## 🎓 Education
-- **University of Rochester**: B.Sc. in Computer Science and Business
-
-## 🏆 Achievements
-- **University Leading Handler Scholarship**: Awarded to less than 1% of students
-- **Lefrak-Friedberg Scholarship**: Awarded to 32 East African Students in the US
-- **Global HackingDigitalSkills4Jobs Hackathon 2022**: Top 6 by International Telecom Union
-- **National Weekly Wavumbuzi Entrepreneurship Challenge 2022**: Winner
-- **ColorStack Fellow**
-
-## 🤝 Involvement
-- **National Society of Black Engineers (NSBE)**: Volunteering Associate
-- **University of Rochester Debate Team**: Group Leader
-- **University of Rochester Christian Fellowship (URCF)**: Publicity Chair
-- **Computer Science Undergraduate Council**: Member
-- **Model United Nations**: Member
