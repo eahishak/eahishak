@@ -1,5 +1,6 @@
 # Emmanuel Ahishakiye
-
+## 🎓 Education
+- **University of Rochester**: B.Sc. in Computer Science and Business
 <div style="background: linear-gradient(135deg, #0095DD, #6a11cb); padding: 20px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
     <img src="https://github-readme-stats.vercel.app/api?username=eahishak&show_icons=true&theme=radical&include_all_commits=true&count_private=true&custom_title=Emmanuel%20Ahishakiye%27s%20GitHub%20Stats&line_height=30" alt="GitHub Stats" style="margin-bottom: 20px;" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eahishak&layout=compact&theme=radical&langs_count=10&hide=html,css&exclude_repo=eahishak.github.io" alt="Top Languages" />
@@ -133,6 +134,3 @@ I'm always open to collaboration on interesting projects. Whether it's a new ope
         </a>
     </div>
 </div>
-
-## 🎓 Education
-- **University of Rochester**: B.Sc. in Computer Science and Business
