@@ -66,11 +66,6 @@ I'm always open to collaboration on interesting projects. Whether it's a new ope
 - **TypeScript**: 3%
 - **PHP**: 3%
 
-## 📝 Latest Blog Posts
-- [Understanding Django for Beginners](https://medium.com/@eahishak/understanding-django-for-beginners-123456)
-- [Building Scalable Mobile Apps with React Native](https://medium.com/@eahishak/building-scalable-mobile-apps-with-react-native-123456)
-- [An Introduction to Docker & Kubernetes](https://medium.com/@eahishak/an-introduction-to-docker-kubernetes-123456)
-
 ## 🛠️ Technologies & Tools
 
 ![Dart](https://img.shields.io/badge/-Dart-05122A?style=for-the-badge&logo=dart)
@@ -108,36 +103,43 @@ I'm always open to collaboration on interesting projects. Whether it's a new ope
     <div style="background: #1f1f1f; padding: 20px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
         <a href="https://github.com/eahishak/jackal-tech" style="color: white; text-decoration: none;">
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=eahishak&repo=jackal-tech&theme=radical" alt="Jackal Tech" />
+            <h3 style="margin-top: 10px;">Jackal Tech</h3>
+            <p>Innovative tech solutions across various sectors including healthcare, education, and finance.</p>
         </a>
     </div>
     <div style="background: #1f1f1f; padding: 20px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
         <a href="https://github.com/eahishak/marvel-streams" style="color: white; text-decoration: none;">
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=eahishak&repo=marvel-streams&theme=radical" alt="Marvel Streams" />
+            <h3 style="margin-top: 10px;">Marvel Streams</h3>
+            <p>A platform for streaming Marvel content with enhanced user experience.</p>
         </a>
     </div>
     <div style="background: #1f1f1f; padding: 20px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
         <a href="https://github.com/eahishak/Emmanuel-Ahishakiye-Portfolio" style="color: white; text-decoration: none;">
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=eahishak&repo=Emmanuel-Ahishakiye-Portfolio&theme=radical" alt="Portfolio" />
-        </a>
-    </div>
-    <div style="background: #1f1f1f; padding: 20px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
-        <a href="https://github.com/eahishak/MEETEmmanuel" style="color: white; text-decoration: none;">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=eahishak&repo=MEETEmmanuel&theme=radical" alt="MEET Emmanuel" />
+            <h3 style="margin-top: 10px;">Portfolio</h3>
+            <p>Showcase of my projects and skills in web and mobile development.</p>
         </a>
     </div>
     <div style="background: #1f1f1f; padding: 20px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
         <a href="https://github.com/eahishak/ManRobotic" style="color: white; text-decoration: none;">
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=eahishak&repo=ManRobotic&theme=radical" alt="Man Robotic" />
+            <h3 style="margin-top: 10px;">Man Robotic</h3>
+            <p>Robotic automation solutions for various industries.</p>
         </a>
     </div>
     <div style="background: #1f1f1f; padding: 20px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
         <a href="https://github.com/eahishak/Mosaic-Eagle-Sample" style="color: white; text-decoration: none;">
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=eahishak&repo=Mosaic-Eagle-Sample&theme=radical" alt="Mosaic Eagle Sample" />
+            <h3 style="margin-top: 10px;">Mosaic Eagle Sample</h3>
+            <p>A sample project demonstrating advanced coding techniques and architecture.</p>
         </a>
     </div>
     <div style="background: #1f1f1f; padding: 20px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
         <a href="https://github.com/eahishak/Jackal-Tech--Web-Prototype" style="color: white; text-decoration: none;">
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=eahishak&repo=Jackal-Tech--Web-Prototype&theme=radical" alt="Web Prototype" />
+            <h3 style="margin-top: 10px;">Web Prototype</h3>
+            <p>Prototype for Jackal Tech's web solutions.</p>
         </a>
     </div>
 </div>
