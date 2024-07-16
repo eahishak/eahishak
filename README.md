@@ -56,16 +56,15 @@ I'm always open to collaboration on interesting projects. Whether it's a new ope
 - **JavaScript**: 25%
 - **Python**: 20%
 - **Dart**: 15%
-- **Java**: 10%
+- **HTML**: 10%
 - **C++**: 5%
-- **SQL**: 5%
-- **HTML**: 5%
 - **CSS**: 5%
+- **MySQL**: 5%
+- **SQL**: 3%
 - **Ruby**: 3%
 - **Go**: 3%
-- **TypeScript**: 2%
-- **PHP**: 2%
-- **Others**: 10%
+- **TypeScript**: 3%
+- **PHP**: 3%
 
 ## 📝 Latest Blog Posts
 - [Understanding Django for Beginners](https://medium.com/@eahishak/understanding-django-for-beginners-123456)
