@@ -1,4 +1,4 @@
-# Emmanuel Ahishakiye
+#<marquee scrollamount="14"> Emmanuel Ahishakiye</marquee>
 
 ## 🎓 Education
 - **University of Rochester**: B.Sc. in Computer Science and Business
