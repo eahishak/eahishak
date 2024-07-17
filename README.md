@@ -49,8 +49,12 @@
 I'm always open to collaboration on interesting projects. Whether it's a new open-source initiative, a challenging development problem, or an innovative startup idea, feel free to reach out!
 
 ## 📈 GitHub Stats
+
 ![Emmanuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=eahishak&show_icons=true&theme=radical&include_all_commits=true&count_private=true&custom_title=Emmanuel%20Ahishakiye%27s%20GitHub%20Stats&line_height=30)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eahishak&layout=compact&theme=radical&langs_count=10)
+![Profile Views](https://komarev.com/ghpvc/?username=eahishak&style=flat-square)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=eahishak&theme=radical)
+![GitHub Level](https://badges.pufler.dev/years/eahishak)
 
 ### Language Usage
 - **JavaScript**: 25%
