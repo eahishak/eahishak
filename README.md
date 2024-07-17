@@ -3,6 +3,11 @@
 ## 🎓 Education
 - **University of Rochester**: B.Sc. in Computer Science and Business
 
+![Profile Views](https://komarev.com/ghpvc/?username=eahishak&style=flat-square)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=eahishak&theme=radical)
+![Total Contributions](https://img.shields.io/badge/Total%20Contributions-1k-blue)
+![Longest Streak](https://img.shields.io/badge/Longest%20Streak-30%20days-green)
+
 <div style="background: linear-gradient(135deg, #0095DD, #6a11cb); padding: 20px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
     <img src="https://github-readme-stats.vercel.app/api?username=eahishak&show_icons=true&theme=radical&include_all_commits=true&count_private=true&custom_title=Emmanuel%20Ahishakiye%27s%20GitHub%20Stats&line_height=30" alt="GitHub Stats" style="margin-bottom: 20px;" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eahishak&layout=compact&theme=radical&langs_count=10" alt="Top Languages" />
@@ -52,9 +57,6 @@ I'm always open to collaboration on interesting projects. Whether it's a new ope
 
 ![Emmanuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=eahishak&show_icons=true&theme=radical&include_all_commits=true&count_private=true&custom_title=Emmanuel%20Ahishakiye%27s%20GitHub%20Stats&line_height=30)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eahishak&layout=compact&theme=radical&langs_count=10)
-![Profile Views](https://komarev.com/ghpvc/?username=eahishak&style=flat-square)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=eahishak&theme=radical)
-![GitHub Level](https://badges.pufler.dev/years/eahishak)
 
 ### Language Usage
 - **JavaScript**: 25%
