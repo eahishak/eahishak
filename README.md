@@ -43,10 +43,10 @@ Hi! I'm Emmanuel (@eahishak), a software engineer and entrepreneur. As Founder a
 ---
 
 ### 🚀 Projects
-- **[Jackal Tech](https://jackaltechltd.com)**: Leading tech solutions across healthcare, education, and finance.
-- **Headstarter AI**: Personalized career growth platform.
-- **Portfolio**: Showcasing skills in web and mobile development.
-- **Man Robotic**: Robotic automation for various industries.
+- **[Weather App](https://github.com/eahishak/weather-app)**: A dynamic application providing real-time weather updates.
+- **[Marvel Streams](https://github.com/eahishak/marvel-streams)**: A platform for streaming Marvel content with an enhanced user experience.
+- **[Jackal Tech Web App](https://github.com/eahishak/jackal-tech-web)**: A comprehensive web app showcasing Jackal Tech's innovative solutions.
+- **[Afriverse](https://github.com/eahishak/afriverse)**: A platform promoting African culture and innovation through digital storytelling.
 
 ---
 
