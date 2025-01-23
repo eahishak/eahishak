@@ -1,7 +1,7 @@
 ## Emmanuel Ahishakiye
 
 ### 🎓 Education
-- **University of Rochester**: B.Sc. in Computer Science with a Minor in Business (Class of 2027)
+- **University of Rochester**: B.Sc. in Computer Science & Business (Class of 2027)
 
 ---
 
