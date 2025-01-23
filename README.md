@@ -61,4 +61,4 @@ Hi! I'm Emmanuel (@eahishak), a software engineer and entrepreneur. As Founder a
 
 ---
 
-Let’s innovate together! Reach out for collaborations or new ideas.
+Let’s connect!
