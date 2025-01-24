@@ -1,4 +1,4 @@
-## Emmanuel Ahishakiye
+# Emmanuel Ahishakiye
 
 ### 🎓 Education
 - **University of Rochester**: B.Sc. in Computer Science & Business (Class of 2027)
@@ -6,7 +6,7 @@
 ---
 
 ### 👋 About Me
-Hi! I'm Emmanuel (@eahishak), a software engineer and entrepreneur. As Founder at Jackal Tech Ltd, I lead tech innovation to solve real-world challenges. Passionate about App development, FinTech, AI, and empowering communities through technology.
+Hi! I'm Emmanuel (@eahishak), a software engineer and entrepreneur. As the Founder of Jackal Tech Ltd, I drive tech innovation to solve real-world challenges. I'm passionate about App Development, FinTech, AI, and empowering communities through technology.
 
 ---
 
