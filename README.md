@@ -45,7 +45,7 @@ Hi! I'm Emmanuel (@eahishak), a software engineer and entrepreneur. As the Found
 ### 🚀 Projects
 - **[Weather App](https://github.com/eahishak/weather-app)**: A dynamic application providing real-time weather updates.
 - **[Marvel Streams](https://github.com/eahishak/marvel-streams)**: A platform for streaming Marvel content with an enhanced user experience.
-- **[Jackal Tech Web App](https://github.com/eahishak/jackal-tech-web)**: A comprehensive web app showcasing Jackal Tech's innovative solutions.
+- **[Jackal Tech Web App](https://github.com/eahishak/jackal-tech-web)**: A comprehensive web app showcasing Jackal Tech Ltd's innovative solutions.
 - **[Afriverse](https://github.com/eahishak/afriverse)**: A platform promoting African culture and innovation through digital storytelling.
 
 ---
