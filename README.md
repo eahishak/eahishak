@@ -6,7 +6,7 @@
 ---
 
 ### 👋 About Me
-Hi! I'm Emmanuel (@eahishak), a software engineer and entrepreneur. As the Founder of Jackal Tech Ltd, I drive tech innovation to solve real-world challenges. I'm passionate about App Development, FinTech, AI, and empowering communities through technology.
+Hi! I'm Emmanuel (@eahishak), a software engineer and entrepreneur. I'm passionate about App Development, FinTech, AI, and empowering communities through tech.
 
 ---
 
