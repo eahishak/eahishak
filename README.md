@@ -1,5 +1,11 @@
 # Emmanuel Ahishakiye
 
+## GitHub stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eahishak&show_icons=true&theme=radical&include_all_commits=true&count_private=true&custom_title=GitHub%20Stats&line_height=30)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eahishak&layout=compact&theme=radical&langs_count=10)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=eahishak&theme=radical)
+
 Live site  
 **https://eahishakiye.com**
 
@@ -11,22 +17,7 @@ Calendly
 
 ## Quick intro
 
-I build useful software and ship fast. Product minded. Detail driven. Comfortable across the stack. I like clean interfaces, crisp data workflows, and results you can measure.
-
-## 60 second tour for recruiters
-
-* Headline results  
-  * Foundly serves 15,000 plus users across campuses and offices  
-  * Matching improvements raised successful returns by 65%  
-  * Alerts and workflow trims reduced manual work by 70%
-* Core skills  
-  * Python Java JavaScript TypeScript  
-  * React Node.js Django FastAPI  
-  * PostgreSQL MySQL Firebase  
-  * TensorFlow for smart matching
-* Leadership  
-  * Founder at Jackal Tech Ltd  
-  * Team coaching and student mentoring
+I build useful software. Product minded. Detail driven. Comfortable across the stack. I like clean interfaces, crisp data workflows, and results you can measure.
 
 ## Experience snapshots
 
@@ -66,8 +57,8 @@ Class of 2027
 
 Relevant coursework  
 Data Structures and Algorithms  
-Artificial Intelligence  
 Human Computer Interaction  
+Artificial Intelligence  
 Formal Systems  
 Discrete Math  
 Financial Accounting  
@@ -129,16 +120,10 @@ English
 Spanish  
 French
 
-## GitHub stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eahishak&show_icons=true&theme=radical&include_all_commits=true&count_private=true&custom_title=GitHub%20Stats&line_height=30)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eahishak&layout=compact&theme=radical&langs_count=10)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=eahishak&theme=radical)
-
 ## Skills focus
 
 Languages  
-Python Java JavaScript TypeScript C++  
+Python Java JavaScript TypeScript C++
 
 Frameworks  
 React Node.js Django FastAPI
