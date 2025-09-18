@@ -1,64 +1,174 @@
 # Emmanuel Ahishakiye
 
-### 🎓 Education
-- **University of Rochester**: B.Sc. in Computer Science & Business (Class of 2027)
+Live site  
+**https://eahishakiye.com**
 
----
+Resume PDF  
+**doc/resume/Emmanuel_Ahishakiye_Resume.pdf**
 
-### 👋 About Me
-Hi! I'm Emmanuel (@eahishak), a software engineer and entrepreneur. I'm passionate about App Development, FinTech, AI, and empowering communities through tech.
+Calendly  
+**https://calendly.com/eahishak**
 
----
+## Quick intro
 
-### 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eahishak&show_icons=true&theme=radical&include_all_commits=true&count_private=true&custom_title=GitHub%20Stats&line_height=30)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eahishak&layout=compact&theme=radical&langs_count=10)
+I build useful software and ship fast. Product minded. Detail driven. Comfortable across the stack. I like clean interfaces, crisp data workflows, and results you can measure.
+
+## 60 second tour for recruiters
+
+* Headline results  
+  * Foundly serves 15,000 plus users across campuses and offices  
+  * Matching improvements raised successful returns by 65%  
+  * Alerts and workflow trims reduced manual work by 70%
+* Core skills  
+  * Python Java JavaScript TypeScript  
+  * React Node.js Django FastAPI  
+  * PostgreSQL MySQL Firebase  
+  * TensorFlow for smart matching
+* Leadership  
+  * Founder at Jackal Tech Ltd  
+  * Team coaching and student mentoring
+
+## Experience snapshots
+
+**Foundly**  
+Software Developer  
+Jan 2025 to present  
+* Full stack features in React and Node.js with Firebase  
+* Secure sign in with Google and institutional logic  
+* Maps and geolocation for faster item recovery  
+* Matching services in Python with TensorFlow
+
+**Cendance Systems Inc**  
+Salesforce Software Engineer Intern  
+Dec 2024 to May 2025  
+* Microservices that improved forecast accuracy by 35%  
+* Internal React tools that increased engagement by 25%
+
+**Jackal Tech Ltd**  
+Founder and Product Lead part time  
+Nov 2021 to present  
+* 6 products shipped in health education and civic tech  
+* Scalable back ends in Django and Node.js  
+* Chat features that cut response times  
+* Mentored builders through sprints and live sessions
+
+**Headstarter**  
+Software Engineer Fellow  
+Jun 2024 to Oct 2024  
+* Sign in systems and chat interfaces  
+* Better deployment flows with higher reliability
+
+## Education
+
+**University of Rochester**  
+B.Sc. in Computer Science and Business  
+Class of 2027
+
+Relevant coursework  
+Data Structures and Algorithms  
+Artificial Intelligence  
+Human Computer Interaction  
+Formal Systems  
+Discrete Math  
+Financial Accounting  
+Statistical Methodology
+
+## Companies
+
+**Foundly**  
+Smart lost and found for campuses and offices  
+https://foundlyhq.com
+
+**Jackal Tech Ltd**  
+Products and training for schools teams and communities  
+https://jackaltechltd.com
+
+Founders  
+Jackal Tech  
+Emmanuel Ahishakiye  
+Ignace Kwizera  
+Placide Shema
+
+Foundly  
+Emmanuel Ahishakiye  
+Israel Owolabi
+
+## Projects
+
+* Weather App  
+  Real time forecasts and alerts  
+  https://github.com/eahishak/weather-app
+* Marvel Streams  
+  Media viewer with smooth browsing  
+  https://github.com/eahishak/marvel-streams
+* Jackal Tech Web App  
+  Public platform for Jackal Tech  
+  https://github.com/eahishak/jackal-tech-web
+* Afriverse  
+  Digital spaces for culture and makers  
+  https://github.com/eahishak/afriverse
+
+## Game studio on the site
+
+Try quick browser games inside Magic lab. Good for a short break during an interview loop.
+
+* Guess word  
+* Number guess  
+* Rock paper scissors  
+* Tic tac toe with a simple bot  
+* Memory match  
+* Reaction time meter  
+* Typing speed test  
+* 2048 mini grid with swipe on mobile
+
+Open Magic lab then Game studio. You can deep link with a language and a specific game. Example  
+`https://eahishakiye.com#lab=games&g=twf&lang=en`
+
+Supported languages  
+English  
+Spanish  
+French
+
+## GitHub stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eahishak&show_icons=true&theme=radical&include_all_commits=true&count_private=true&custom_title=GitHub%20Stats&line_height=30)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eahishak&layout=compact&theme=radical&langs_count=10)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=eahishak&theme=radical)
 
----
+## Skills focus
 
-### 📊 Language Usage
-- **Python**: 30%
-- **JavaScript**: 25%
-- **Dart**: 15%
-- **C++**: 10%
-- **HTML/CSS**: 10%
-- **SQL & Databases**: 10%
+Languages  
+Python Java JavaScript TypeScript C++  
 
----
+Frameworks  
+React Node.js Django FastAPI
 
-### 📫 Connect with Me
-<div style="display: flex; gap: 10px;">
-    <a href="https://linkedin.com/in/eahishak" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
-    </a>
-    <a href="mailto:eahishak@u.rochester.edu" target="_blank">
-        <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email">
-    </a>
-    <a href="https://emmanuelahishakiye.com" target="_blank">
-        <img src="https://img.shields.io/badge/Website-Visit-green?style=for-the-badge&logo=google-chrome" alt="Website">
-    </a>
-</div>
+Data  
+PostgreSQL MySQL Firebase Supabase
 
----
+Cloud and tools  
+AWS Git Docker
 
-### 🚀 Projects
-- **[Weather App](https://github.com/eahishak/weather-app)**: A dynamic application providing real-time weather updates.
-- **[Marvel Streams](https://github.com/eahishak/marvel-streams)**: A platform for streaming Marvel content with an enhanced user experience.
-- **[Jackal Tech Web App](https://github.com/eahishak/jackal-tech-web)**: A comprehensive web app showcasing Jackal Tech Ltd's innovative solutions.
-- **[Afriverse](https://github.com/eahishak/afriverse)**: A platform promoting African culture and innovation through digital storytelling.
+## How to run locally
 
----
+1. Clone the repo  
+   `git clone https://github.com/eahishak/emmanuel-ahishakiye.git`
+2. Open `index.html` in a browser  
+3. For service worker and full features use a simple static server  
+   `python -m http.server` then visit `http://localhost:8000`
 
-### 🛠️ Skills
-![Python](https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/-React-05122A?style=for-the-badge&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=for-the-badge&logo=node.js)
-![Django](https://img.shields.io/badge/-Django-05122A?style=for-the-badge&logo=django)
-![C++](https://img.shields.io/badge/-C++-05122A?style=for-the-badge&logo=c%2B%2B)
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=for-the-badge&logo=docker)
+## Contact
 
----
+Email  
+**eahishak@u.rochester.edu**
 
-Let’s connect!
+LinkedIn  
+**https://linkedin.com/in/eahishak**
+
+GitHub  
+**https://github.com/eahishak**
+
+Website  
+**https://eahishakiye.com**
+
+If you spot something that can be sharper send a note and I will improve it fast.
