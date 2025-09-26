@@ -59,15 +59,6 @@ Statistical Methodology
 | Jackal Tech Web App | Public platform for Jackal Tech | https://github.com/eahishak/jackal-tech-web |
 | Foundly | Smart lost and found for campuses and offices | https://foundlyhq.com |
 
---- | --- | --- |
-| Weather App | Real time forecasts and alerts | https://github.com/eahishak/weather-app |
-| Marvel Streams | Media viewer with smooth browsing | https://github.com/eahishak/marvel-streams |
-| Jackal Tech Web App | Public platform for Jackal Tech | https://github.com/eahishak/jackal-tech-web |
-| Afriverse | Digital spaces for culture and makers | https://github.com/eahishak/afriverse |
-| Foundly | Smart lost and found for campuses and offices | https://foundlyhq.com |
-
----
-
 ## Game studio on the site
 
 Open Magic lab then Game studio. Good for a short break during an interview loop.
