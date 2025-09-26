@@ -54,10 +54,6 @@ I build useful software. Product minded. Detail driven. Comfortable across the s
 | Jackal Tech Web App | Public platform for Jackal Tech | https://github.com/eahishak/jackal-tech-web |
 | Foundly | Smart lost and found for campuses and offices | https://foundlyhq.com |
 
-**Elevare spotlight**  
-`![stars](https://img.shields.io/github/stars/eahishak/elevare?style=flat&color=03cb87)  ![last commit](https://img.shields.io/github/last-commit/eahishak/elevare?style=flat&color=000000)`  
-Key wins: personalized recommendations, resume and cover letter editors, event and session booking, admin analytics for participation and application trends
-
 ---
 
 ## Game studio on the site
