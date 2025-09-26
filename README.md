@@ -26,10 +26,10 @@ I build useful software. Product minded. Detail driven. Comfortable across the s
 
 | Place | Role | Time | Highlights |
 | --- | --- | --- | --- |
-| Foundly | Software Developer | January, 2025 to Present | React and Node with Firebase. Secure sign in with Google and campus logic. Maps and geolocation for faster item recovery. Matching services in Python with TensorFlow. Improved match rates by 65%, cut search time by 50%, reduced manual processing by 70%. |
-| Cendance Systems Inc | Salesforce Software Engineer Intern | December, 2024 to May, 2025 | Microservices that improved forecast accuracy by 35%. Internal React tools that increased engagement by 25%. |
-| Jackal Tech Ltd | Founder and Product Lead (part time) | November, 2021 to Present | Six products in health, education and civic tech. Scalable back ends in Django and Node. Chat features that cut response times by 40%. Mentored builders through sprints and live sessions. |
-| Headstarter | Software Engineer Fellow | June, 2024 to October, 2024 | Sign in systems and chat interfaces. Better deployment flows with higher reliability. |
+| Foundly | Software Developer | January 2025- Present | React and Node with Firebase. Secure sign in with Google and campus logic. Maps and geolocation for faster item recovery. Matching services in Python with TensorFlow. Improved match rates by 65%, cut search time by 50%, reduced manual processing by 70%. |
+| Cendance Systems Inc | Salesforce Software Engineer Intern | December 2024- May 2025 | Microservices that improved forecast accuracy by 35%. Internal React tools that increased engagement by 25%. |
+| Jackal Tech Ltd | Founder and Product Lead (part time) | November 2021 - Present | Six products in health, education and civic tech. Scalable back ends in Django and Node. Chat features that cut response times by 40%. Mentored builders through sprints and live sessions. |
+| Headstarter | Software Engineer Fellow | June 2024 - October 2024 | Sign in systems and chat interfaces. Better deployment flows with higher reliability. |
 
 ---
 
