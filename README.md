@@ -16,11 +16,9 @@
 
 ---
 
-## Quick intro
+## Quick Intro
 
-I build useful software. Product minded. Detail driven. Comfortable across the stack. I like clean interfaces, crisp data workflows, and results you can measure.
-
----
+Emmanuel is a Computer Science and Business student at the University of Rochester and the founder of Jackal Tech and Foundly. He has led teams of hundreds across engineering, design, and research, working with over 800 people in just three years to build tools that simplify operations, transform hiring, and solve everyday challenges like lost-and-found management.  
 
 ## Experience snapshots
 
