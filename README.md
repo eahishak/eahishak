@@ -36,7 +36,7 @@ Emmanuel is a Computer Science and Business student at the University of Rochest
 ![UR](https://img.shields.io/badge/University%20of%20Rochester-1e90ff?style=for-the-badge) ![Degree](https://img.shields.io/badge/BS%20Computer%20Science%20(AI%20Concentration)%20and%20Business-03cb87?style=for-the-badge) ![Class of 2027](https://img.shields.io/badge/Class_of-2027-000000?style=for-the-badge)
 
 **Program**: BS Computer Science (AI Concentration) and Business  
-**Location**: Rochester, NY  
+**Location**: Rochester, New York
 **Graduation**: May, 2027
 
 **Relevant coursework**: Data Structures and Algorithms, Artificial Intelligence, Human Computer Interaction, Mobile App Development, Formal Systems, Statistical Methodology, Calculus II, Discrete Mathematics, Financial Management
