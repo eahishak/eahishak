@@ -60,6 +60,55 @@
 </div>
 
 ---
+
+<!-- Stats Counter with SVG -->
+<div align="center">
+
+<h2>Quick Stats</h2>
+
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <svg width="80" height="80" viewBox="0 0 100 100">
+        <circle cx="50" cy="50" r="45" stroke="#03cb87" stroke-width="3" fill="none">
+          <animate attributeName="stroke-dasharray" values="0 283;283 0" dur="2s" fill="freeze"/>
+        </circle>
+        <text x="50" y="55" text-anchor="middle" font-size="24" font-weight="bold" fill="#03cb87">15K+</text>
+      </svg>
+      <br><strong>Users Served</strong>
+    </td>
+    <td align="center" width="25%">
+      <svg width="80" height="80" viewBox="0 0 100 100">
+        <circle cx="50" cy="50" r="45" stroke="#667eea" stroke-width="3" fill="none">
+          <animate attributeName="stroke-dasharray" values="0 283;283 0" dur="2s" fill="freeze"/>
+        </circle>
+        <text x="50" y="55" text-anchor="middle" font-size="28" font-weight="bold" fill="#667eea">6</text>
+      </svg>
+      <br><strong>Products Launched</strong>
+    </td>
+    <td align="center" width="25%">
+      <svg width="80" height="80" viewBox="0 0 100 100">
+        <circle cx="50" cy="50" r="45" stroke="#f093fb" stroke-width="3" fill="none">
+          <animate attributeName="stroke-dasharray" values="0 283;283 0" dur="2s" fill="freeze"/>
+        </circle>
+        <text x="50" y="55" text-anchor="middle" font-size="22" font-weight="bold" fill="#f093fb">500+</text>
+      </svg>
+      <br><strong>Developers Mentored</strong>
+    </td>
+    <td align="center" width="25%">
+      <svg width="80" height="80" viewBox="0 0 100 100">
+        <circle cx="50" cy="50" r="45" stroke="#4facfe" stroke-width="3" fill="none">
+          <animate attributeName="stroke-dasharray" values="0 283;283 0" dur="2s" fill="freeze"/>
+        </circle>
+        <text x="50" y="55" text-anchor="middle" font-size="18" font-weight="bold" fill="#4facfe">99.7%</text>
+      </svg>
+      <br><strong>System Uptime</strong>
+    </td>
+  </tr>
+</table>
+
+</div>
+
 ---
 
 <div align="center">
@@ -115,19 +164,19 @@
   <text x="50" y="80" font-size="16" fill="#c9d1d9">⭐ Total Stars Earned:</text>
   <text x="500" y="80" text-anchor="end" font-size="18" font-weight="bold" fill="#667eea">1</text>
   
-  <text x="50" y="115" font-size="16" fill="#c9d1d9"> Total Commits:</text>
+  <text x="50" y="115" font-size="16" fill="#c9d1d9">⏰ Total Commits:</text>
   <text x="500" y="115" text-anchor="end" font-size="18" font-weight="bold" fill="#667eea">131</text>
   
-  <text x="50" y="150" font-size="16" fill="#c9d1d9"> Total PRs:</text>
+  <text x="50" y="150" font-size="16" fill="#c9d1d9">🔀 Total PRs:</text>
   <text x="500" y="150" text-anchor="end" font-size="18" font-weight="bold" fill="#667eea">1</text>
   
-  <text x="50" y="185" font-size="16" fill="#c9d1d9"> Total Issues:</text>
+  <text x="50" y="185" font-size="16" fill="#c9d1d9">❗ Total Issues:</text>
   <text x="500" y="185" text-anchor="end" font-size="18" font-weight="bold" fill="#667eea">130</text>
   
-  <text x="50" y="220" font-size="16" fill="#c9d1d9"> Contributed to (last year):</text>
+  <text x="50" y="220" font-size="16" fill="#c9d1d9">📦 Contributed to (last year):</text>
   <text x="500" y="220" text-anchor="end" font-size="18" font-weight="bold" fill="#667eea">2</text>
   
-  <text x="50" y="255" font-size="16" fill="#c9d1d9"> Top Language:</text>
+  <text x="50" y="255" font-size="16" fill="#c9d1d9">🎯 Top Language:</text>
   <text x="500" y="255" text-anchor="end" font-size="18" font-weight="bold" fill="#f093fb">C++</text>
 </svg>
 
