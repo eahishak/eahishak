@@ -115,19 +115,19 @@
   <text x="50" y="80" font-size="16" fill="#c9d1d9">⭐ Total Stars Earned:</text>
   <text x="500" y="80" text-anchor="end" font-size="18" font-weight="bold" fill="#667eea">1</text>
   
-  <text x="50" y="115" font-size="16" fill="#c9d1d9">⏰ Total Commits:</text>
+  <text x="50" y="115" font-size="16" fill="#c9d1d9"> Total Commits:</text>
   <text x="500" y="115" text-anchor="end" font-size="18" font-weight="bold" fill="#667eea">131</text>
   
-  <text x="50" y="150" font-size="16" fill="#c9d1d9">🔀 Total PRs:</text>
+  <text x="50" y="150" font-size="16" fill="#c9d1d9"> Total PRs:</text>
   <text x="500" y="150" text-anchor="end" font-size="18" font-weight="bold" fill="#667eea">1</text>
   
-  <text x="50" y="185" font-size="16" fill="#c9d1d9">❗ Total Issues:</text>
+  <text x="50" y="185" font-size="16" fill="#c9d1d9"> Total Issues:</text>
   <text x="500" y="185" text-anchor="end" font-size="18" font-weight="bold" fill="#667eea">130</text>
   
-  <text x="50" y="220" font-size="16" fill="#c9d1d9">📦 Contributed to (last year):</text>
+  <text x="50" y="220" font-size="16" fill="#c9d1d9"> Contributed to (last year):</text>
   <text x="500" y="220" text-anchor="end" font-size="18" font-weight="bold" fill="#667eea">2</text>
   
-  <text x="50" y="255" font-size="16" fill="#c9d1d9">🎯 Top Language:</text>
+  <text x="50" y="255" font-size="16" fill="#c9d1d9"> Top Language:</text>
   <text x="500" y="255" text-anchor="end" font-size="18" font-weight="bold" fill="#f093fb">C++</text>
 </svg>
 
