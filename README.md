@@ -1,20 +1,58 @@
+<div align="center">
+
 # Emmanuel Ahishakiye
 
-[![Website](https://img.shields.io/badge/website-eahishakiye.com-03cb87?style=for-the-badge)](https://eahishakiye.com)
-[![Resume](https://img.shields.io/badge/resume-PDF-03cb87?style=for-the-badge)](doc/resume/Emmanuel_Ahishakiye_Resume.pdf)
-[![Calendly](https://img.shields.io/badge/meet-Calendly-03cb87?style=for-the-badge)](https://calendly.com/eahishak)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-eahishak-03cb87?style=for-the-badge)](https://linkedin.com/in/eahishak)
-[![GitHub](https://img.shields.io/badge/GitHub-eahishak-03cb87?style=for-the-badge)](https://github.com/eahishak)
+### 💻 Software Engineer | 🤖 AI Enthusiast | 🚀 Full-Stack Developer
+
+[![Website](https://img.shields.io/badge/🌐_Website-eahishakiye.com-03cb87?style=for-the-badge&logo=google-chrome&logoColor=white)](https://eahishakiye.com)
+[![Resume](https://img.shields.io/badge/📄_Resume-Download-03cb87?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](doc/resume/Emmanuel_Ahishakiye_Resume.pdf)
+[![Email](https://img.shields.io/badge/📧_Email-Contact-03cb87?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eahishak@u.rochester.edu)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-03cb87?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/eahishak)
+[![GitHub](https://img.shields.io/badge/💻_GitHub-Follow-03cb87?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eahishak)
+[![Calendly](https://img.shields.io/badge/📅_Schedule-Meeting-03cb87?style=for-the-badge&logo=google-calendar&logoColor=white)](https://calendly.com/eahishak)
+
+</div>
+
+<div align="center">
+
+### 🎓 Computer Science (AI) & Business | 🏫 University of Rochester '27
+
+📍 **New York, NY • Rochester, NY** | 📞 **(585) 623-7660**
+
+</div>
 
 ---
 
-## About
+<div align="center">
 
-Computer Science (AI) and Business student at University of Rochester. Founder of Jackal Tech and Foundly. I work on full-stack applications, AI systems, and developer tools.
+## 🚀 Quick Stats
 
-**Location**: New York, NY • Rochester, NY  
-**Email**: eahishak@u.rochester.edu  
-**Phone**: (585) 623-7660
+</div>
+
+<table align="center">
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://img.icons8.com/fluency/96/000000/user-group-man-man.png" width="50"/>
+      <h3>15,000+</h3>
+      <p>Users Served</p>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.icons8.com/fluency/96/000000/product.png" width="50"/>
+      <h3>6</h3>
+      <p>Products Launched</p>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.icons8.com/fluency/96/000000/training.png" width="50"/>
+      <h3>500+</h3>
+      <p>Developers Mentored</p>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.icons8.com/fluency/96/000000/checkmark.png" width="50"/>
+      <h3>99.7%</h3>
+      <p>System Uptime</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
