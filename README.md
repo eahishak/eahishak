@@ -603,3 +603,32 @@ const emmanuel = {
   location: ["New York, NY", "Rochester, NY"],
   currentFocus: ["Full-Stack Architecture", "AI/ML Systems", "Open Source"],
   workingOn: ["MemVerge MemMachine", "Foundly Platform",
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=eahishak&color=03cb87&style=for-the-badge&label=PROFILE+VIEWS)
+
+### 🎯 Open to Opportunities
+
+**Currently seeking:**
+- Full-time Software Engineering roles (2027 graduation)
+- Open Source collaborations
+- Technical speaking engagements
+- Mentorship opportunities
+
+**Interested in:**
+- AI/ML Engineering
+- Full-Stack Development
+- Distributed Systems
+- Cloud Architecture
+
+</div>
+
+---
+
+<div align="center">
+
+**Built with ❤️ by Emmanuel Ahishakiye**
+
+*Last Updated: December 2025*
+
+</div>
