@@ -1,18 +1,6 @@
 # <div align="center">Emmanuel Ahishakiye</div>
 
 <div align="center">
-```ascii
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                                                                              ║
-║     ███████╗███╗   ███╗███╗   ███╗ █████╗ ███╗   ██╗██╗   ██╗███████╗██╗    ║
-║     ██╔════╝████╗ ████║████╗ ████║██╔══██╗████╗  ██║██║   ██║██╔════╝██║    ║
-║     █████╗  ██╔████╔██║██╔████╔██║███████║██╔██╗ ██║██║   ██║█████╗  ██║    ║
-║     ██╔══╝  ██║╚██╔╝██║██║╚██╔╝██║██╔══██║██║╚██╗██║██║   ██║██╔══╝  ██║    ║
-║     ███████╗██║ ╚═╝ ██║██║ ╚═╝ ██║██║  ██║██║ ╚████║╚██████╔╝███████╗███████╗║
-║     ╚══════╝╚═╝     ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝ ╚══════╝╚══════╝║
-║                                                                              ║
-╚══════════════════════════════════════════════════════════════════════════════╝
-```
 
 ### Software Engineering Student | CS (AI) & Business Information Systems
 
@@ -32,31 +20,6 @@
 **University of Rochester '27** | CS (AI) & Business Information Systems
 
 </div>
-
----
-
-## About Me
-```typescript
-const emmanuel = {
-    status: "Junior @ University of Rochester",
-    major: ["Computer Science (AI)", "Business Information Systems"],
-    graduation: "May 2027",
-    seeking: "Summer 2025 Software Engineering Internships",
-    interests: [
-        "Full-Stack Development",
-        "Machine Learning",
-        "Cloud Technologies",
-        "Product Development"
-    ],
-    experience: {
-        internships: 2,
-        projectsBuilt: 6,
-        technologiesUsed: ["React", "Node.js", "Python", "AWS", "PostgreSQL"]
-    }
-};
-```
-
-I'm a junior studying Computer Science with a concentration in AI and Business Information Systems at the University of Rochester. I've had the opportunity to work on real-world projects through internships and personal ventures, building everything from lost-and-found platforms to AI forecasting tools. I'm genuinely excited about creating software that solves actual problems, and I'm always looking to learn new technologies and best practices.
 
 ---
 
