@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### Software Engineering Student | CS (AI) & Business Information Systems
+### FULL STACK + ML Engineer | CS (AI) & Business Information Systems @ University of Rochester
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Junior+at+University+of+Rochester;Seeking+Summer+2025+Software+Engineering+Internships;Passionate+about+full-stack+development+and+AI" alt="Typing SVG" />
 
