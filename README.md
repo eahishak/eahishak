@@ -1,9 +1,14 @@
-#
-Emmanuel Ahishakiye
+# Emmanuel Ahishakiye
 
 ### FULL STACK + ML Engineer | Computer Science (AI) & Business Information Systems
 
-[![Location](https://img.shields.io/badge/📍-Rochester%2C_NY-667eea?style=for-the-badge&labelColor=1a1b27)](https://www.google.com/maps/place/Rochester,+NY) [![Email](https://img.shields.io/badge/📧-eahishak@u.rochester.edu-03cb87?style=for-the-badge&labelColor=1a1b27)](mailto:eahishak@u.rochester.edu) [![Phone](https://img.shields.io/badge/📞-(585)_623--7660-f093fb?style=for-the-badge&labelColor=1a1b27)](tel:+15856237660) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1b27)](https://linkedin.com/in/eahishak) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27)](https://github.com/eahishak) [![Portfolio](https://img.shields.io/badge/Portfolio-03cb87?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=1a1b27)](https://eahishakiye.com) [![Calendly](https://img.shields.io/badge/Schedule-00A2FF?style=for-the-badge&logo=google-calendar&logoColor=white&labelColor=1a1b27)](https://calendly.com/eahishak)
+[![Location](https://img.shields.io/badge/📍-Rochester%2C_NY-667eea?style=for-the-badge&labelColor=1a1b27)](https://www.google.com/maps/place/Rochester,+NY)
+[![Email](https://img.shields.io/badge/📧-eahishak@u.rochester.edu-03cb87?style=for-the-badge&labelColor=1a1b27)](mailto:eahishak@u.rochester.edu)
+[![Phone](https://img.shields.io/badge/📞-(585)_623--7660-f093fb?style=for-the-badge&labelColor=1a1b27)](tel:+15856237660)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1b27)](https://linkedin.com/in/eahishak)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27)](https://github.com/eahishak)
+[![Portfolio](https://img.shields.io/badge/Portfolio-03cb87?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=1a1b27)](https://eahishakiye.com)
+[![Calendly](https://img.shields.io/badge/Schedule-00A2FF?style=for-the-badge&logo=google-calendar&logoColor=white&labelColor=1a1b27)](https://calendly.com/eahishak)
 
 **University of Rochester '27** | CS (AI) & Business Information Systems
 
@@ -13,18 +18,11 @@ Emmanuel Ahishakiye
 
 ### Contribution Overview
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eahishak&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=667eea&icon_color=03cb87&text_color=ffffff&count_private=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=eahishak&theme=tokyonight&hide_border=true&background=1a1b27&ring=667eea&fire=f093fb&currStreakLabel=03cb87&sideLabels=ffffff&currStreakNum=667eea&sideNums=ffffff)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eahishak&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=667eea&text_color=ffffff)
-
 ---
 
 ## Experience
 
-MemVerge — Open-Source AI Engineering Intern
-
+**MemVerge — Open-Source AI Engineering Intern**  
 **August 2025 - Present** | **Milpitas, CA (Remote)**
 
 Working on MemMachine, an open-source memory system designed to optimize long-context inference for large language models.
@@ -42,8 +40,9 @@ Working on MemMachine, an open-source memory system designed to optimize long-co
 - Helped reduce cache retrieval latency through optimization work
 - Contributing to open-source infrastructure used by AI researchers
 
-Foundly — Software Engineer (Side Project)
+---
 
+**Foundly — Software Engineer (Side Project)**  
 **January 2025 - Present** | **Rochester, NY**
 
 Building a lost-and-found platform that helps students and staff at the University of Rochester find their lost items more efficiently.
@@ -62,8 +61,9 @@ Building a lost-and-found platform that helps students and staff at the Universi
 - Processing about 150 lost items per month
 - Reduced manual search time by eliminating duplicate entries
 
-Cendance Systems — Salesforce Engineering Intern
+---
 
+**Cendance Systems — Salesforce Engineering Intern**  
 **December 2024 - May 2025** | **New York, NY**
 
 Built internal tools and dashboards for the sales operations team.
@@ -81,8 +81,9 @@ Built internal tools and dashboards for the sales operations team.
 - Docker containerization and cloud deployment basics
 - Writing clean, maintainable code for production environments
 
-Jackal Tech — Founder & Developer
+---
 
+**Jackal Tech — Founder & Developer**  
 **November 2021 - Present** | **New York, NY**
 
 Started Jackal Tech as a way to learn web development while helping local schools and communities. Built several projects that are being used by real users.
@@ -100,8 +101,9 @@ Started Jackal Tech as a way to learn web development while helping local school
 - Managing small projects and deploying to production
 - Balancing technical decisions with practical constraints
 
-Headstarter AI — Software Engineering Fellow
+---
 
+**Headstarter AI — Software Engineering Fellow**  
 **June 2024 - October 2024** | **New York, NY**
 
 Participated in a fellowship program focused on building real-world projects.
@@ -121,9 +123,11 @@ Participated in a fellowship program focused on building real-world projects.
 
 ## Projects
 
-### Elevare **AI-Powered Recruitment Platform**
+### Elevare
+**AI-Powered Recruitment Platform**
 
-![Status](https://img.shields.io/badge/Status-In_Development-667eea?style=flat-square) ![Type](https://img.shields.io/badge/Type-Full_Stack-03cb87?style=flat-square)
+![Status](https://img.shields.io/badge/Status-In_Development-667eea?style=flat-square)
+![Type](https://img.shields.io/badge/Type-Full_Stack-03cb87?style=flat-square)
 
 A recruitment platform that uses machine learning to match job seekers with relevant positions.
 
@@ -133,11 +137,19 @@ A recruitment platform that uses machine learning to match job seekers with rele
 - Real-time application tracking
 - Integration with job boards
 
-**Tech Stack:** ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+**Tech Stack:**
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 
-### Causeway **Fundraising Platform**
+---
 
-![Status](https://img.shields.io/badge/Status-Live-03cb87?style=flat-square) ![Type](https://img.shields.io/badge/Type-Full_Stack-667eea?style=flat-square)
+### Causeway
+**Fundraising Platform**
+
+![Status](https://img.shields.io/badge/Status-Live-03cb87?style=flat-square)
+![Type](https://img.shields.io/badge/Type-Full_Stack-667eea?style=flat-square)
 
 A platform that helps organizations run fundraising campaigns with integrated payment processing.
 
@@ -147,11 +159,19 @@ A platform that helps organizations run fundraising campaigns with integrated pa
 - Donor management system
 - Campaign analytics dashboard
 
-**Tech Stack:** ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+**Tech Stack:**
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
-### Marvel Streams **Media Streaming Platform**
+---
 
-![Status](https://img.shields.io/badge/Status-Live-03cb87?style=flat-square) ![Type](https://img.shields.io/badge/Type-Full_Stack-f093fb?style=flat-square)
+### Marvel Streams
+**Media Streaming Platform**
+
+![Status](https://img.shields.io/badge/Status-Live-03cb87?style=flat-square)
+![Type](https://img.shields.io/badge/Type-Full_Stack-f093fb?style=flat-square)
 
 A media streaming application with optimized video delivery and responsive design.
 
@@ -161,11 +181,19 @@ A media streaming application with optimized video delivery and responsive desig
 - Content categorization
 - Responsive design for mobile and desktop
 
-**Tech Stack:** ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+**Tech Stack:**
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
-### Jackal Tech Website **Company Portfolio Site**
+---
 
-![Status](https://img.shields.io/badge/Status-Live-03cb87?style=flat-square) ![Type](https://img.shields.io/badge/Type-Frontend-667eea?style=flat-square)
+### Jackal Tech Website
+**Company Portfolio Site**
+
+![Status](https://img.shields.io/badge/Status-Live-03cb87?style=flat-square)
+![Type](https://img.shields.io/badge/Type-Frontend-667eea?style=flat-square)
 
 Portfolio website showcasing projects and providing information about services.
 
@@ -175,46 +203,74 @@ Portfolio website showcasing projects and providing information about services.
 - Contact form integration
 - SEO optimization
 
-**Tech Stack:** ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+**Tech Stack:**
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
 ---
 
 ## Technical Skills
 
 ### Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Frontend
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white) ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Backend
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 ### Machine Learning
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 ### Databases
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 ### Cloud & Tools
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
 ## Education
 
 ### University of Rochester
-**Bachelor of Science**
+**Bachelor of Science**  
 Computer Science (AI Concentration) & Business Information Systems
 
-**Expected Graduation:** May 2027
-
+**Expected Graduation:** May 2027  
 **Location:** Rochester, New York
 
 **Relevant Coursework:**
@@ -229,7 +285,9 @@ Computer Science (AI Concentration) & Business Information Systems
 - Discrete Mathematics
 - Multivariable Calculus
 
-![Class](https://img.shields.io/badge/Class_of-2027-03cb87?style=for-the-badge&labelColor=1a1b27) ![Year](https://img.shields.io/badge/Current-Junior-667eea?style=for-the-badge&labelColor=1a1b27) ![Major](https://img.shields.io/badge/CS_(AI)_&_BIS-f093fb?style=for-the-badge&labelColor=1a1b27)
+![Class](https://img.shields.io/badge/Class_of-2027-03cb87?style=for-the-badge&labelColor=1a1b27)
+![Year](https://img.shields.io/badge/Current-Junior-667eea?style=for-the-badge&labelColor=1a1b27)
+![Major](https://img.shields.io/badge/CS_(AI)_&_BIS-f093fb?style=for-the-badge&labelColor=1a1b27)
 
 ---
 
@@ -264,7 +322,12 @@ I help organize tech workshops and coding sessions for students interested in so
 
 ### Other Memberships
 
-![Rochester Game Dev](https://img.shields.io/badge/Rochester_Game_Dev-Member-03cb87?style=flat-square&labelColor=1a1b27) ![Debate Union](https://img.shields.io/badge/Debate_Union-Team_Member-667eea?style=flat-square&labelColor=1a1b27) ![NSBE](https://img.shields.io/badge/NSBE-Member-f093fb?style=flat-square&labelColor=1a1b27) ![MLT](https://img.shields.io/badge/MLT-Fellow-03cb87?style=flat-square&labelColor=1a1b27) ![Code2040](https://img.shields.io/badge/Code2040-Member-667eea?style=flat-square&labelColor=1a1b27) ![ColorStack](https://img.shields.io/badge/ColorStack-Member-f093fb?style=flat-square&labelColor=1a1b27)
+![Rochester Game Dev](https://img.shields.io/badge/Rochester_Game_Dev-Member-03cb87?style=flat-square&labelColor=1a1b27)
+![Debate Union](https://img.shields.io/badge/Debate_Union-Team_Member-667eea?style=flat-square&labelColor=1a1b27)
+![NSBE](https://img.shields.io/badge/NSBE-Member-f093fb?style=flat-square&labelColor=1a1b27)
+![MLT](https://img.shields.io/badge/MLT-Fellow-03cb87?style=flat-square&labelColor=1a1b27)
+![Code2040](https://img.shields.io/badge/Code2040-Member-667eea?style=flat-square&labelColor=1a1b27)
+![ColorStack](https://img.shields.io/badge/ColorStack-Member-f093fb?style=flat-square&labelColor=1a1b27)
 
 ---
 
@@ -272,12 +335,16 @@ I help organize tech workshops and coding sessions for students interested in so
 
 I'm actively looking for **Summer 2025 software engineering internships** where I can contribute to meaningful projects and continue learning from experienced engineers.
 
-[![Email](https://img.shields.io/badge/Email-eahishak@u.rochester.edu-03cb87?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b27)](mailto:eahishak@u.rochester.edu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1b27)](https://linkedin.com/in/eahishak) [![Phone](https://img.shields.io/badge/Phone-(585)_623--7660-667eea?style=for-the-badge&logo=phone&logoColor=white&labelColor=1a1b27)](tel:+15856237660) [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27)](https://github.com/eahishak) [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-f093fb?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=1a1b27)](https://eahishakiye.com) [![Calendar](https://img.shields.io/badge/Schedule_a_Chat-00A2FF?style=for-the-badge&logo=google-calendar&logoColor=white&labelColor=1a1b27)](https://calendly.com/eahishak)
+[![Email](https://img.shields.io/badge/Email-eahishak@u.rochester.edu-03cb87?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b27)](mailto:eahishak@u.rochester.edu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1b27)](https://linkedin.com/in/eahishak)
+[![Phone](https://img.shields.io/badge/Phone-(585)_623--7660-667eea?style=for-the-badge&logo=phone&logoColor=white&labelColor=1a1b27)](tel:+15856237660)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27)](https://github.com/eahishak)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-f093fb?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=1a1b27)](https://eahishakiye.com)
+[![Calendar](https://img.shields.io/badge/Schedule_a_Chat-00A2FF?style=for-the-badge&logo=google-calendar&logoColor=white&labelColor=1a1b27)](https://calendly.com/eahishak)
 
 ---
 
 ### What I'm Currently Working On
-
 ```javascript
 const currentStatus = {
   role: "Junior @ University of Rochester",
@@ -309,6 +376,5 @@ const currentStatus = {
 
 ![Profile Views](https://komarev.com/ghpvc/?username=eahishak&color=667eea&style=for-the-badge&label=Profile+Views)
 
-**Emmanuel Ahishakiye** • Junior @ University of Rochester
-
+**Emmanuel Ahishakiye** • Junior @ University of Rochester  
 *Last Updated: December 2024*
