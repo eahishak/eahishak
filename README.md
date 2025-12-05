@@ -227,7 +227,6 @@ A recruitment platform that uses machine learning to match job seekers with rele
 
 ### Causeway
 **Fundraising Platform**
-
 <div align="center">
 
 ![Status](https://img.shields.io/badge/Status-Live-03cb87?style=flat-square)
